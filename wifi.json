@@ -1,0 +1,6002 @@
+[
+  {
+    "nombre": "MERCADO DE CARAPUNGO",
+    "lat": -0.09624,
+    "lng": -78.4507,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Casa Somos Carapungo",
+    "lat": -0.0894898,
+    "lng": -78.4522688,
+    "": ""
+  },
+  {
+    "nombre": "San MIguel del Común Parque",
+    "lat": -0.09374,
+    "lng": -78.4114812,
+    "": ""
+  },
+  {
+    "nombre": "Calderón parque",
+    "lat": -0.1037158,
+    "lng": -78.4236764,
+    "": ""
+  },
+  {
+    "nombre": "Parque Cruz Roja Calderón",
+    "lat": -0.09838,
+    "lng": -78.4363,
+    "": ""
+  },
+  {
+    "nombre": "Llano Chico Parque",
+    "lat": -0.1277067,
+    "lng": -78.4443067,
+    "": ""
+  },
+  {
+    "nombre": "AZ Calderon Balcón Servicios",
+    "lat": -0.10388,
+    "lng": -78.4537,
+    "": ""
+  },
+  {
+    "nombre": "Parque Llano Grande",
+    "lat": -0.11438,
+    "lng": -78.4317,
+    "": ""
+  },
+  {
+    "nombre": "ESTADIO ATAHUALPA LLANO GRANDE",
+    "lat": -0.1219526,
+    "lng": -78.4139646,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Boulevard Garcia Moreno1",
+    "lat": -0.13879,
+    "lng": -78.4355,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Boulevard Garcia Moreno2",
+    "lat": -0.13866,
+    "lng": -78.432,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Boulevard Garcia Moreno3",
+    "lat": -0.13867,
+    "lng": -78.4292683,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Iglesia",
+    "lat": -0.137678,
+    "lng": -78.4264287,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Estadio San Jose",
+    "lat": -0.1401295,
+    "lng": -78.423339,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Boulevard García Moreno 4",
+    "lat": -0.13859,
+    "lng": -78.4188,
+    "": ""
+  },
+  {
+    "nombre": "FORESTAL",
+    "lat": -0.258252,
+    "lng": -78.50385,
+    "": ""
+  },
+  {
+    "nombre": "LOS LIBERTADORES",
+    "lat": -0.24717,
+    "lng": -78.5371,
+    "": ""
+  },
+  {
+    "nombre": "ORIENTAL",
+    "lat": -0.25794,
+    "lng": -78.5189,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO MENA DOS",
+    "lat": -0.25826,
+    "lng": -78.5525,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO QUITO SUR",
+    "lat": -0.26,
+    "lng": -78.531,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO DE SOLANDA",
+    "lat": -0.26876,
+    "lng": -78.5431,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Ayapamba",
+    "lat": -0.27866,
+    "lng": -78.532,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Guajalo",
+    "lat": -0.28778,
+    "lng": -78.5379,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Colegio Montufar",
+    "lat": -0.237819,
+    "lng": -78.509517,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Eplicachima",
+    "lat": -0.26373,
+    "lng": -78.5244,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia San Bartolo",
+    "lat": -0.26851,
+    "lng": -78.5275,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia El Comercio",
+    "lat": -0.27184,
+    "lng": -78.529,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia San Cristobal",
+    "lat": -0.28263,
+    "lng": -78.5348,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Recreo",
+    "lat": -0.25237,
+    "lng": -78.5217,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Solanda",
+    "lat": -0.27013,
+    "lng": -78.5355,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole La Colina",
+    "lat": -0.2358,
+    "lng": -78.515,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Turubamba",
+    "lat": -0.27867,
+    "lng": -78.5428,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Ajavi",
+    "lat": -0.2686,
+    "lng": -78.5337,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole La Internacional",
+    "lat": -0.2660176,
+    "lng": -78.5322016,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole El Calzado",
+    "lat": -0.2584149,
+    "lng": -78.5261251,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole El Recreo 2",
+    "lat": -0.25183,
+    "lng": -78.5215,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole La Villaflora",
+    "lat": -0.2444179,
+    "lng": -78.5185936,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia - Pujilí",
+    "lat": -0.25946,
+    "lng": -78.5228,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia - Estadio Chimbacalle",
+    "lat": -0.2452379,
+    "lng": -78.5140551,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia - Teatro México",
+    "lat": -0.24056,
+    "lng": -78.5114,
+    "": ""
+  },
+  {
+    "nombre": "Parque Yaguachi",
+    "lat": -0.2346396,
+    "lng": -78.5288214,
+    "": ""
+  },
+  {
+    "nombre": "Cancha Ciudadela México",
+    "lat": -0.23698,
+    "lng": -78.511,
+    "": ""
+  },
+  {
+    "nombre": "Parque Fulton",
+    "lat": -0.23752,
+    "lng": -78.5111,
+    "": ""
+  },
+  {
+    "nombre": "Parque Plaza Magdalena",
+    "lat": -0.2384833,
+    "lng": -78.5256217,
+    "": ""
+  },
+  {
+    "nombre": "Parque Spencer",
+    "lat": -0.24026,
+    "lng": -78.5118533,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Chimbacalle",
+    "lat": -0.2399,
+    "lng": -78.5147,
+    "": ""
+  },
+  {
+    "nombre": "Parque",
+    "lat": -0.2447,
+    "lng": -78.5271,
+    "": ""
+  },
+  {
+    "nombre": "Parque de los Skatepark",
+    "lat": -0.2435,
+    "lng": -78.516,
+    "": ""
+  },
+  {
+    "nombre": "Patronato San José",
+    "lat": -0.25196,
+    "lng": -78.517,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Municipal de Salud",
+    "lat": -0.25225,
+    "lng": -78.5169,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Ferroviaria",
+    "lat": -0.25451,
+    "lng": -78.5129,
+    "": ""
+  },
+  {
+    "nombre": "Parque Eloy Alfaro",
+    "lat": -0.24267,
+    "lng": -78.5093,
+    "": ""
+  },
+  {
+    "nombre": "Parque 17 de Julio (La Redonda)",
+    "lat": -0.25822,
+    "lng": -78.5168,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ecológico La Magdalena",
+    "lat": -0.2381,
+    "lng": -78.5262,
+    "": ""
+  },
+  {
+    "nombre": "Parque Cacique Pintag",
+    "lat": -0.2412,
+    "lng": -78.5254,
+    "": ""
+  },
+  {
+    "nombre": "Parque El Calzado",
+    "lat": -0.25482,
+    "lng": -78.5266,
+    "": ""
+  },
+  {
+    "nombre": "Parque España",
+    "lat": -0.2596902,
+    "lng": -78.528726,
+    "": ""
+  },
+  {
+    "nombre": "Parque de las Diversidades",
+    "lat": -0.2611,
+    "lng": -78.5252,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Ferroviaria",
+    "lat": -0.26287,
+    "lng": -78.5145,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Ferroviaria Alta 1",
+    "lat": -0.26388,
+    "lng": -78.5169,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ugalde",
+    "lat": -0.25876,
+    "lng": -78.5216,
+    "": ""
+  },
+  {
+    "nombre": "Parque Chino",
+    "lat": -0.2599135,
+    "lng": -78.537401,
+    "": ""
+  },
+  {
+    "nombre": "Parque de La Mena 2",
+    "lat": -0.250586,
+    "lng": -78.5545269,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Salud Tarqui",
+    "lat": -0.2553,
+    "lng": -78.5526,
+    "": ""
+  },
+  {
+    "nombre": "Parque de La Gatazo",
+    "lat": -0.2641064,
+    "lng": -78.5461669,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Educación Inicial \"Mercedes González de Moscoso",
+    "lat": -0.2575457,
+    "lng": -78.5515801,
+    "": ""
+  },
+  {
+    "nombre": "Centro Múltiple Norte",
+    "lat": -0.2605201,
+    "lng": -78.5494814,
+    "": ""
+  },
+  {
+    "nombre": "Parque Remodelado Excombatientes del 41",
+    "lat": -0.2592367,
+    "lng": -78.5524733,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Camilo Gallegos",
+    "lat": -0.26412,
+    "lng": -78.5544,
+    "": ""
+  },
+  {
+    "nombre": "Parque Solanda 2",
+    "lat": -0.26476,
+    "lng": -78.5388,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ciudadela El Comercio",
+    "lat": -0.27454,
+    "lng": -78.543,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Nicolás Guillén",
+    "lat": -0.2921326,
+    "lng": -78.5247201,
+    "": ""
+  },
+  {
+    "nombre": "Escuela \"Capitan Alfonso Arrollo",
+    "lat": -0.28182,
+    "lng": -78.5243,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Vicente Aurelio Crespo Ochoa",
+    "lat": -0.2770552,
+    "lng": -78.5169493,
+    "": ""
+  },
+  {
+    "nombre": "Parque de la Ferroviaria Baja",
+    "lat": -0.25479,
+    "lng": -78.5179,
+    "": ""
+  },
+  {
+    "nombre": "KENNEDY",
+    "lat": -0.139183,
+    "lng": -78.4791,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovía-24deMayo",
+    "lat": -0.17451,
+    "lng": -78.4772,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-ECOVÍA-JIPIJAPA",
+    "lat": -0.165,
+    "lng": -78.4755,
+    "": ""
+  },
+  {
+    "nombre": "Estadio de Nayón",
+    "lat": -0.15672,
+    "lng": -78.4345,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA CANAL 8",
+    "lat": -0.19042,
+    "lng": -78.4718,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovía-SanMartin",
+    "lat": -0.19201,
+    "lng": -78.4809,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovía La Paz",
+    "lat": -0.19649,
+    "lng": -78.4832,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Cuero y Caicedo",
+    "lat": -0.1919,
+    "lng": -78.4934,
+    "": ""
+  },
+  {
+    "nombre": "Parque El Heraldo",
+    "lat": -0.17276,
+    "lng": -78.4779,
+    "": ""
+  },
+  {
+    "nombre": "NAYON",
+    "lat": -0.17488,
+    "lng": -78.4249,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Cotocog",
+    "lat": -0.1399,
+    "lng": -78.4263,
+    "": ""
+  },
+  {
+    "nombre": "Parque La Quintana",
+    "lat": -0.1279,
+    "lng": -78.4604,
+    "": ""
+  },
+  {
+    "nombre": "Parque El Porvenir",
+    "lat": -0.12423,
+    "lng": -78.5041,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial Monteserrín FLQ",
+    "lat": -0.16048,
+    "lng": -78.4574,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole El Florón Sur",
+    "lat": -0.185187,
+    "lng": -78.490683,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Mariscal",
+    "lat": -0.204428,
+    "lng": -78.498992,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central Zámbiza",
+    "lat": -0.148935,
+    "lng": -78.440783,
+    "": ""
+  },
+  {
+    "nombre": "Parque de la Mujer 2",
+    "lat": -0.185122,
+    "lng": -78.498142,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial EL Cisne",
+    "lat": -0.1303,
+    "lng": -78.51118,
+    "": ""
+  },
+  {
+    "nombre": "Parque Liga Barrial La Campiña",
+    "lat": -0.127705,
+    "lng": -78.517478,
+    "": ""
+  },
+  {
+    "nombre": "Parque de San Pedro de El Valle",
+    "lat": -0.17284,
+    "lng": -78.4236,
+    "": ""
+  },
+  {
+    "nombre": "Parque Pío Jaramillo Alvarado",
+    "lat": -0.1411,
+    "lng": -78.4757,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial Kennedy 3ra Etapa.",
+    "lat": -0.13716,
+    "lng": -78.4743,
+    "": ""
+  },
+  {
+    "nombre": "Parque California Bonanza",
+    "lat": -0.1312,
+    "lng": -78.4791,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Boulevard García Moreno 6",
+    "lat": -0.13882,
+    "lng": -78.4126,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Carlos Zambrano",
+    "lat": -0.183351,
+    "lng": -78.5103,
+    "": ""
+  },
+  {
+    "nombre": "Centro Salud Las Casas",
+    "lat": -0.17946,
+    "lng": -78.5142,
+    "": ""
+  },
+  {
+    "nombre": "La Comuna",
+    "lat": -0.1894,
+    "lng": -78.5144,
+    "": ""
+  },
+  {
+    "nombre": "Parque Las Casas",
+    "lat": -0.18542,
+    "lng": -78.5075,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Salud Fray Bartolomé de Las Casas",
+    "lat": -0.18975,
+    "lng": -78.507,
+    "": ""
+  },
+  {
+    "nombre": "Liga Las Casas",
+    "lat": -0.18815,
+    "lng": -78.5086,
+    "": ""
+  },
+  {
+    "nombre": "Parque La Isla",
+    "lat": -0.1917,
+    "lng": -78.5029,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Municipal 9 de Octubre",
+    "lat": -0.19315,
+    "lng": -78.5091,
+    "": ""
+  },
+  {
+    "nombre": "Parque del Agua EPMAPS",
+    "lat": -0.1892,
+    "lng": -78.4903,
+    "": ""
+  },
+  {
+    "nombre": "UPC La Gasca",
+    "lat": -0.19361,
+    "lng": -78.507,
+    "": ""
+  },
+  {
+    "nombre": "Cancha Río Coca",
+    "lat": -0.16057,
+    "lng": -78.4707,
+    "": ""
+  },
+  {
+    "nombre": "MIRADOR NOROCCIDENTE",
+    "lat": -0.098756,
+    "lng": -78.4946,
+    "": ""
+  },
+  {
+    "nombre": "SAN ENRIQUE DE VELASCO",
+    "lat": -0.10203,
+    "lng": -78.5083,
+    "": ""
+  },
+  {
+    "nombre": "CENTRO DE DESARROLLO INFANTIL COMUNITARIO",
+    "lat": -0.10283,
+    "lng": -78.5131,
+    "": ""
+  },
+  {
+    "nombre": "ESCUELA LUIS TUFIÑO",
+    "lat": -0.09293,
+    "lng": -78.498592,
+    "": ""
+  },
+  {
+    "nombre": "LIGA BARRIAL RACHO SAN ANTONIO ALTO FLQ",
+    "lat": -0.10184,
+    "lng": -78.5232,
+    "": ""
+  },
+  {
+    "nombre": "ESTADIO DE LIGA BARRIAL COLINAS",
+    "lat": -0.0974,
+    "lng": -78.5141,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO VIRGEN DEL CISNE",
+    "lat": -0.09348,
+    "lng": -78.5165,
+    "": ""
+  },
+  {
+    "nombre": "UNIDAD EDUCATIVA DIEGO ABAD DE CEPEDA",
+    "lat": -0.09633,
+    "lng": -78.5111,
+    "": ""
+  },
+  {
+    "nombre": "ESCUELA 9 DE AGOSTO",
+    "lat": -0.09201,
+    "lng": -78.5031,
+    "": ""
+  },
+  {
+    "nombre": "CANCHA DE FUTBOL",
+    "lat": -0.09144,
+    "lng": -78.5036,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE DEL CONCEJO",
+    "lat": -0.07989,
+    "lng": -78.5034,
+    "": ""
+  },
+  {
+    "nombre": "ESTADIO-CANGAHUA",
+    "lat": -0.08729,
+    "lng": -78.5006,
+    "": ""
+  },
+  {
+    "nombre": "CENTRO MEDICO SANTA HILDEGARDA",
+    "lat": -0.0839,
+    "lng": "-78..51",
+    "": ""
+  },
+  {
+    "nombre": "CASA SOMOS ROLDOS PISULI",
+    "lat": -0.0846,
+    "lng": -78.5095,
+    "": ""
+  },
+  {
+    "nombre": "UNIDAD EDUCATIVA PISULI",
+    "lat": -0.089608,
+    "lng": -78.5148,
+    "": ""
+  },
+  {
+    "nombre": "COCHA ACUSTICA PISULI",
+    "lat": -0.0885,
+    "lng": -78.5175,
+    "": ""
+  },
+  {
+    "nombre": "CALACALI-ESTADIO",
+    "lat": -0.000007,
+    "lng": -78.5116,
+    "": ""
+  },
+  {
+    "nombre": "Parque San José - Cotocollao",
+    "lat": -0.12002,
+    "lng": -78.501,
+    "": ""
+  },
+  {
+    "nombre": "Colegio municipal cotocollao",
+    "lat": -0.11632,
+    "lng": -78.4854,
+    "": ""
+  },
+  {
+    "nombre": "Parque Bellavista Alta",
+    "lat": -0.12235,
+    "lng": -78.5026,
+    "": ""
+  },
+  {
+    "nombre": "Estadio Del Comité Del Pueblo",
+    "lat": -0.12164,
+    "lng": -78.4666,
+    "": ""
+  },
+  {
+    "nombre": "Cuba Capilla-Centro Med",
+    "lat": -0.06302,
+    "lng": -78.4686,
+    "": ""
+  },
+  {
+    "nombre": "Consejo Provincial Parque",
+    "lat": -0.08207,
+    "lng": -78.5032,
+    "": ""
+  },
+  {
+    "nombre": "Cotocollao Casa Somos",
+    "lat": -0.11065,
+    "lng": -78.4994,
+    "": ""
+  },
+  {
+    "nombre": "Casa Cultural Comité del Pueblo",
+    "lat": -0.12195,
+    "lng": -78.4638,
+    "": ""
+  },
+  {
+    "nombre": "CDI-Iglesia",
+    "lat": -0.10295,
+    "lng": -78.513,
+    "": ""
+  },
+  {
+    "nombre": "Canchas San José Obrero",
+    "lat": -0.11795,
+    "lng": -78.5181,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial Santa María de Cotocollao",
+    "lat": -0.12559,
+    "lng": -78.5224,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Santa Ana Alta",
+    "lat": -0.12133,
+    "lng": -78.5178,
+    "": ""
+  },
+  {
+    "nombre": "Canchas de Fútbol - Liga San Antonio de Pichincha",
+    "lat": -0.00336,
+    "lng": -78.4536,
+    "": ""
+  },
+  {
+    "nombre": "Estadio Jaime Roldós Aguilera",
+    "lat": -0.08425,
+    "lng": -78.4658,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Angelica Idrobo",
+    "lat": -0.10311,
+    "lng": -78.51,
+    "": ""
+  },
+  {
+    "nombre": "Calle 27 de Febrero y Francisco Castellanos",
+    "lat": -0.06086,
+    "lng": -78.4644,
+    "": ""
+  },
+  {
+    "nombre": "ANGAMARCA",
+    "lat": -0.29048,
+    "lng": -78.4245,
+    "": ""
+  },
+  {
+    "nombre": "ALANGASI",
+    "lat": -0.30341,
+    "lng": -78.41429,
+    "": ""
+  },
+  {
+    "nombre": "LIGA BARRIAL CUENDINA",
+    "lat": -0.37077,
+    "lng": -78.4749,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Casa Somos Guangopolo",
+    "lat": -0.25815,
+    "lng": -78.451831,
+    "": ""
+  },
+  {
+    "nombre": "Escuela General Numacuro",
+    "lat": -0.29038,
+    "lng": -78.5058,
+    "": ""
+  },
+  {
+    "nombre": "Parque Alangasí",
+    "lat": -0.30858,
+    "lng": -78.4149,
+    "": ""
+  },
+  {
+    "nombre": "Guangopolo Parque Central 1",
+    "lat": -0.25902,
+    "lng": -78.451872,
+    "": ""
+  },
+  {
+    "nombre": "Guangopolo Estadio",
+    "lat": -0.25789,
+    "lng": -78.4499,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Pintag",
+    "lat": -0.37357,
+    "lng": -78.3732,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia de Angamarca",
+    "lat": -0.29443,
+    "lng": -78.4262,
+    "": ""
+  },
+  {
+    "nombre": "Pintag Iglesia central",
+    "lat": -0.37164,
+    "lng": -78.375,
+    "": ""
+  },
+  {
+    "nombre": "Alangasí calle Paulino Iza estadio",
+    "lat": -0.291836,
+    "lng": -78.4299,
+    "": ""
+  },
+  {
+    "nombre": "Conocoto barrio Santa Teresita del Valle Monserrat",
+    "lat": -0.26324,
+    "lng": -78.5004,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Bartolome de las Casas",
+    "lat": -0.37285,
+    "lng": -78.4847,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Cristobal Colón",
+    "lat": -0.36785,
+    "lng": -78.3754,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Orellana",
+    "lat": -0.1992759,
+    "lng": -78.4845213,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Manuela Cañizares",
+    "lat": -0.20496,
+    "lng": -78.4907,
+    "": ""
+  },
+  {
+    "nombre": "AZ La Mariscal Balcón de servicios",
+    "lat": -0.20642,
+    "lng": -78.4914,
+    "": ""
+  },
+  {
+    "nombre": "SAN JOSE DE MONJAS",
+    "lat": -0.23316,
+    "lng": -78.491,
+    "": ""
+  },
+  {
+    "nombre": "SAN JUAN",
+    "lat": -0.2219,
+    "lng": -78.5081,
+    "": ""
+  },
+  {
+    "nombre": "LAS ORQUIDEAS",
+    "lat": -0.22178,
+    "lng": -78.489827,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial San Francisco FLQ",
+    "lat": -0.24691,
+    "lng": -78.495055,
+    "": ""
+  },
+  {
+    "nombre": "Liga Deportiva Barrial \"Obrero Independiente",
+    "lat": -0.247757,
+    "lng": -78.486703,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO AMÉRICA",
+    "lat": -0.2096,
+    "lng": -78.5048,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Marin Central",
+    "lat": -0.2220274,
+    "lng": -78.5081419,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Banco Central",
+    "lat": -0.216817,
+    "lng": -78.505089,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Alameda Sur",
+    "lat": -0.2137688,
+    "lng": -78.5028087,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Ejido",
+    "lat": -0.2103362,
+    "lng": -78.5006675,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Hermano Miguel",
+    "lat": -0.21785,
+    "lng": -78.5061,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Santo Domingo",
+    "lat": -0.22407,
+    "lng": -78.5128,
+    "": ""
+  },
+  {
+    "nombre": "Toctiuco 1",
+    "lat": -0.2074557,
+    "lng": -78.5225406,
+    "": ""
+  },
+  {
+    "nombre": "Toctiuco 2",
+    "lat": -0.2065102,
+    "lng": -78.5245416,
+    "": ""
+  },
+  {
+    "nombre": "Toctiuco 3 (Centro de Salud)",
+    "lat": -0.212556,
+    "lng": -78.523973,
+    "": ""
+  },
+  {
+    "nombre": "Toctiuco 4 (Parque Eugenio Espejo)",
+    "lat": -0.21326,
+    "lng": -78.5206,
+    "": ""
+  },
+  {
+    "nombre": "Centro de salud la Vicentina",
+    "lat": -0.21799,
+    "lng": -78.4848,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Salud Itchimbía",
+    "lat": -0.2245175,
+    "lng": -78.5052779,
+    "": ""
+  },
+  {
+    "nombre": "Plaza de San Diego",
+    "lat": -0.224123,
+    "lng": -78.521165,
+    "": ""
+  },
+  {
+    "nombre": "Parque Yavirac (El Panecillo)",
+    "lat": -0.226313,
+    "lng": -78.520352,
+    "": ""
+  },
+  {
+    "nombre": "Estadio de Puengasí",
+    "lat": -0.249404,
+    "lng": -78.5013,
+    "": ""
+  },
+  {
+    "nombre": "Parque Obrero Independiente",
+    "lat": -0.2445,
+    "lng": -78.4895,
+    "": ""
+  },
+  {
+    "nombre": "Parque todos unidos",
+    "lat": -0.24569,
+    "lng": -78.4913,
+    "": ""
+  },
+  {
+    "nombre": "Parque La Vicentina",
+    "lat": -0.21636,
+    "lng": -78.4892,
+    "": ""
+  },
+  {
+    "nombre": "Plaza el consuelo",
+    "lat": -0.2175,
+    "lng": -78.499,
+    "": ""
+  },
+  {
+    "nombre": "Yaku Museo del agua",
+    "lat": -0.2170305,
+    "lng": -78.5189705,
+    "": ""
+  },
+  {
+    "nombre": "Parque la Alameda 1",
+    "lat": -0.2136,
+    "lng": -78.5025,
+    "": ""
+  },
+  {
+    "nombre": "Parque El Ejido 3",
+    "lat": -0.2109,
+    "lng": -78.4988,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-EcoviaEugenioEspejo",
+    "lat": -0.21425,
+    "lng": -78.49871,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia_CasadelaCultura",
+    "lat": -0.20891,
+    "lng": -78.4959,
+    "": ""
+  },
+  {
+    "nombre": "CIUDADELA IBARRA",
+    "lat": -0.2965748,
+    "lng": -78.5637606,
+    "": ""
+  },
+  {
+    "nombre": "LA ARCADIA",
+    "lat": -0.307783,
+    "lng": -78.550015,
+    "": ""
+  },
+  {
+    "nombre": "LAS CUADRAS",
+    "lat": -0.2810617,
+    "lng": -78.5534445,
+    "": ""
+  },
+  {
+    "nombre": "23 DE MAYO",
+    "lat": -0.28714,
+    "lng": -78.5596,
+    "": ""
+  },
+  {
+    "nombre": "CAUPICHU",
+    "lat": -0.3312,
+    "lng": -78.5382,
+    "": ""
+  },
+  {
+    "nombre": "LOS ANDES",
+    "lat": -0.2919417,
+    "lng": -78.5655783,
+    "": ""
+  },
+  {
+    "nombre": "LIGA LA CONCORDIA",
+    "lat": -0.298625,
+    "lng": -78.5602717,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Beaterio Nueva Aurora",
+    "lat": -0.31798,
+    "lng": -78.549,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal Quito Sur",
+    "lat": -0.26004,
+    "lng": -78.5352,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Guayanay Ñan",
+    "lat": -0.30557,
+    "lng": -78.5431,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Pacarillacta",
+    "lat": -0.29923,
+    "lng": -78.53936,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia El Capuli",
+    "lat": -0.299011,
+    "lng": -78.541831,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Amaruñan",
+    "lat": -0.29067,
+    "lng": -78.5455,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Condorñan",
+    "lat": -0.29755,
+    "lng": -78.5499,
+    "": ""
+  },
+  {
+    "nombre": "DMQ - Terminal Terrestre Quitumbe",
+    "lat": -0.29521,
+    "lng": -78.5548,
+    "": ""
+  },
+  {
+    "nombre": "Cancha Nuevos horizontes - Colegio Marcelino Chapagnat",
+    "lat": -0.3056,
+    "lng": -78.5271,
+    "": ""
+  },
+  {
+    "nombre": "Institucion Educativa \"Luis Enrique Raza Bolaños",
+    "lat": -0.30007,
+    "lng": -78.5249,
+    "": ""
+  },
+  {
+    "nombre": "UNIDAD EDUCATIVA AURELIO BAYAS",
+    "lat": -0.29657,
+    "lng": -78.5314,
+    "": ""
+  },
+  {
+    "nombre": "Parque Santa Rosa 2",
+    "lat": -0.27431,
+    "lng": -78.5641,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ejido",
+    "lat": -0.29144,
+    "lng": -78.5669,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ciudadela Ibarra",
+    "lat": -0.296123,
+    "lng": -78.562144,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Abdón Calderón",
+    "lat": -0.303678,
+    "lng": -78.5585,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Salud La Ecuatoriana",
+    "lat": -0.310772,
+    "lng": -78.561675,
+    "": ""
+  },
+  {
+    "nombre": "5 DE FEBRERO",
+    "lat": -0.310267,
+    "lng": -78.569178,
+    "": ""
+  },
+  {
+    "nombre": "LIBERTAD DE CHILLOGALLO",
+    "lat": -0.28633,
+    "lng": -78.5804,
+    "": ""
+  },
+  {
+    "nombre": "EL TRÁNSITO",
+    "lat": -0.287183,
+    "lng": -78.565631,
+    "": ""
+  },
+  {
+    "nombre": "MANUELITA SÁENZ",
+    "lat": -0.32592,
+    "lng": -78.57307,
+    "": ""
+  },
+  {
+    "nombre": "QUITUS COLONIAL",
+    "lat": -0.3073,
+    "lng": -78.5334,
+    "": ""
+  },
+  {
+    "nombre": "SANTOS PAMBA",
+    "lat": -0.3322,
+    "lng": -78.5728,
+    "": ""
+  },
+  {
+    "nombre": "VICTORIA CENTRAL",
+    "lat": "-0,349",
+    "lng": "-78.,555",
+    "": ""
+  },
+  {
+    "nombre": "PARQUE NUEVA AURORA",
+    "lat": -0.319131,
+    "lng": -78.5525,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE TERRANOVA",
+    "lat": -0.2993,
+    "lng": -78.5521,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE SAN FERNANDO",
+    "lat": -0.3336,
+    "lng": -78.5597,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL Y CANCHAS LA ECUATORIANA",
+    "lat": -0.2997145,
+    "lng": -78.5627951,
+    "": ""
+  },
+  {
+    "nombre": "ESTADIO LA ECUATORIANA",
+    "lat": -0.309575,
+    "lng": -78.561828,
+    "": ""
+  },
+  {
+    "nombre": "CANCHAS DE FUTBOL PUEBLO UNIDO",
+    "lat": -0.2962,
+    "lng": -78.5324,
+    "": ""
+  },
+  {
+    "nombre": "CANCHAS BARRIO ECUADOR DEL FUTURO",
+    "lat": -0.3409,
+    "lng": -78.541,
+    "": ""
+  },
+  {
+    "nombre": "CANCHAS CARLOS E. FRANCO MENDEZ",
+    "lat": -0.3158,
+    "lng": -78.5439,
+    "": ""
+  },
+  {
+    "nombre": "CANCHAS DEPORTIVAS LA VENECIA",
+    "lat": -0.338017,
+    "lng": -78.541167,
+    "": ""
+  },
+  {
+    "nombre": "CANCHAS DE FUTBOL EL CONDE",
+    "lat": -0.3173,
+    "lng": -78.5355,
+    "": ""
+  },
+  {
+    "nombre": "TUMBACO",
+    "lat": -0.19133,
+    "lng": -78.38279,
+    "": ""
+  },
+  {
+    "nombre": "PUEMBO",
+    "lat": -0.180756,
+    "lng": -78.3618,
+    "": ""
+  },
+  {
+    "nombre": "Puembo Parque",
+    "lat": -0.177225,
+    "lng": -78.359,
+    "": ""
+  },
+  {
+    "nombre": "Puembo Escuela",
+    "lat": -0.174994,
+    "lng": -78.358269,
+    "": ""
+  },
+  {
+    "nombre": "Quito y Heladio Sánchez (Checa)",
+    "lat": -0.128153,
+    "lng": -78.312336,
+    "": ""
+  },
+  {
+    "nombre": "GONZALEZ SUAREZ",
+    "lat": -0.25426,
+    "lng": -78.54,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO CHIRIYACU",
+    "lat": -0.2486,
+    "lng": -78.5179,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO LA MAGDALENA",
+    "lat": -0.24153,
+    "lng": -78.52986,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Chimbacalle",
+    "lat": -0.23856,
+    "lng": -78.5164,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Chimbacalle",
+    "lat": -0.2396,
+    "lng": -78.5175,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ecológico Santa Ana 1",
+    "lat": -0.24058,
+    "lng": -78.5204,
+    "": ""
+  },
+  {
+    "nombre": "Parque Ecológico Santa Ana 2",
+    "lat": -0.241298,
+    "lng": -78.51882,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Salud Chimbacalle",
+    "lat": -0.24454,
+    "lng": -78.5133,
+    "": ""
+  },
+  {
+    "nombre": "Parque Cardenal de la Torre",
+    "lat": -0.26004,
+    "lng": -78.5352,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO BELLAVISTA",
+    "lat": -0.18993,
+    "lng": -78.4714,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO SANTA CLARA",
+    "lat": -0.1999,
+    "lng": -78.4998,
+    "": ""
+  },
+  {
+    "nombre": "Estación Multimodal El Labrador",
+    "lat": -0.15464,
+    "lng": -78.4879,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Estadio Norte",
+    "lat": -0.17759,
+    "lng": -78.4885,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Plaza de Toros",
+    "lat": -0.16208,
+    "lng": -78.4857,
+    "": ""
+  },
+  {
+    "nombre": "Estadio Liga Barrial La Rumiñahui",
+    "lat": -0.12353,
+    "lng": -78.4899,
+    "": ""
+  },
+  {
+    "nombre": "Parque Unión Nacional",
+    "lat": -0.15787,
+    "lng": -78.4954,
+    "": ""
+  },
+  {
+    "nombre": "Parque México",
+    "lat": -0.18217,
+    "lng": -78.4734,
+    "": ""
+  },
+  {
+    "nombre": "Cocotog- Boulevard García Moreno5",
+    "lat": -0.13851,
+    "lng": -78.4157,
+    "": ""
+  },
+  {
+    "nombre": "PUERTAS DEL SOL",
+    "lat": -0.1111,
+    "lng": -78.4643,
+    "": ""
+  },
+  {
+    "nombre": "COMITE DEL PUEBLO",
+    "lat": -0.11623,
+    "lng": -78.463,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO COMITÉ DEL PUEBLO",
+    "lat": -0.119,
+    "lng": -78.4655,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO COTOCOLLAO",
+    "lat": -0.1158,
+    "lng": -78.49,
+    "": ""
+  },
+  {
+    "nombre": "Caspigasi-Canchas",
+    "lat": 0.0106,
+    "lng": -78.4795,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Comité del Pueblo Zona 8",
+    "lat": -0.1253,
+    "lng": -78.4661,
+    "": ""
+  },
+  {
+    "nombre": "Calle B",
+    "lat": -0.0585,
+    "lng": -78.4657,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Baca_Ortiz",
+    "lat": -0.2024,
+    "lng": -78.4867,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia- De Las Universidades",
+    "lat": -0.20822,
+    "lng": -78.4903,
+    "": ""
+  },
+  {
+    "nombre": "Parque Julio Andrade",
+    "lat": -0.2011,
+    "lng": -78.4963,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia_CasadelaCultura",
+    "lat": -0.2116,
+    "lng": -78.4961,
+    "": ""
+  },
+  {
+    "nombre": "SAN ROQUE",
+    "lat": -0.21746,
+    "lng": -78.522,
+    "": ""
+  },
+  {
+    "nombre": "LA LIBERTAD",
+    "lat": -0.23084,
+    "lng": -78.5275,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO DE TOCTIUCO",
+    "lat": -0.20963,
+    "lng": -78.5221,
+    "": ""
+  },
+  {
+    "nombre": "DMQ Casa de la Cultura",
+    "lat": -0.21159,
+    "lng": -78.4976,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Playon Marin",
+    "lat": -0.22786,
+    "lng": -78.5067,
+    "": ""
+  },
+  {
+    "nombre": "SAN JOSE DE CALDERON",
+    "lat": -0.08674,
+    "lng": -78.4479,
+    "": ""
+  },
+  {
+    "nombre": "Bellavista de Calderón Liga B",
+    "lat": -0.06666,
+    "lng": -78.4162,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Marianitas",
+    "lat": -0.08244,
+    "lng": -78.4183,
+    "": ""
+  },
+  {
+    "nombre": "Carapungo Plaza Cultural",
+    "lat": -0.0922,
+    "lng": -78.4526,
+    "": ""
+  },
+  {
+    "nombre": "Carapungo Parque",
+    "lat": -0.10732,
+    "lng": -78.454,
+    "": ""
+  },
+  {
+    "nombre": "Luz y Vida",
+    "lat": -0.07261,
+    "lng": -78.4394,
+    "": ""
+  },
+  {
+    "nombre": "UEM Calderón",
+    "lat": -0.07613,
+    "lng": -78.4169,
+    "": ""
+  },
+  {
+    "nombre": "Calderón Liga Barrial San José de C",
+    "lat": -0.08877,
+    "lng": -78.4405,
+    "": ""
+  },
+  {
+    "nombre": "Oyacoto Parque Central",
+    "lat": -0.1073,
+    "lng": -78.3958,
+    "": ""
+  },
+  {
+    "nombre": "Liga Deportiva Barrial Ecuador",
+    "lat": -0.07547,
+    "lng": -78.4452,
+    "": ""
+  },
+  {
+    "nombre": "Estadio \"Patrico Romero\" - Llano Grande",
+    "lat": -0.1303,
+    "lng": -78.4116,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal bicentenario1",
+    "lat": -0.06665,
+    "lng": -78.4532,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal bicentenario2",
+    "lat": -0.06598,
+    "lng": -78.4533,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal bicentenario3",
+    "lat": -0.06231,
+    "lng": -78.4534,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal bicentenario4",
+    "lat": -0.05867,
+    "lng": -78.4523,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal bicentenario5",
+    "lat": -0.05692,
+    "lng": -78.4514,
+    "": ""
+  },
+  {
+    "nombre": "Guagua centro ciudad bicentenario",
+    "lat": -0.06567,
+    "lng": -78.4513,
+    "": ""
+  },
+  {
+    "nombre": "1ERO MAYO EL CALZADO",
+    "lat": -0.2552,
+    "lng": -78.5258,
+    "": ""
+  },
+  {
+    "nombre": "MARIA ELENA SALAZAR",
+    "lat": -0.28568,
+    "lng": -78.54,
+    "": ""
+  },
+  {
+    "nombre": "UNION",
+    "lat": -0.28213,
+    "lng": -78.5395,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO DE LA MICHELENA",
+    "lat": -0.24866,
+    "lng": -78.5405,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Jefferson Perez",
+    "lat": -0.23532,
+    "lng": -78.5143,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole España",
+    "lat": -0.258021,
+    "lng": -78.529804,
+    "": ""
+  },
+  {
+    "nombre": "LLOA-CENTRO SALUD",
+    "lat": -0.24779,
+    "lng": -78.5804,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Barrio Nuevo",
+    "lat": -0.25204,
+    "lng": -78.5342,
+    "": ""
+  },
+  {
+    "nombre": "Parque Biloxi",
+    "lat": -0.25604,
+    "lng": -78.546,
+    "": ""
+  },
+  {
+    "nombre": "SUPERMERCADO METROPOLITANO DEL NORTE (ANDALUCÍA)",
+    "lat": -0.13946,
+    "lng": -78.5005,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO LA KENNEDY",
+    "lat": -0.1396,
+    "lng": -78.478,
+    "": ""
+  },
+  {
+    "nombre": "San Vicente Parque",
+    "lat": -0.18016,
+    "lng": -78.5122,
+    "": ""
+  },
+  {
+    "nombre": "Parque La Comuna",
+    "lat": -0.18822,
+    "lng": -78.5163,
+    "": ""
+  },
+  {
+    "nombre": "Escuela 29 de Junio. Rumicucho",
+    "lat": 0.0121,
+    "lng": -78.4333,
+    "": ""
+  },
+  {
+    "nombre": "CASA-COMUNAL",
+    "lat": -0.0984,
+    "lng": -78.5026,
+    "": ""
+  },
+  {
+    "nombre": "UNIDAD EDUCATIVA",
+    "lat": -0.0787,
+    "lng": -78.5276,
+    "": ""
+  },
+  {
+    "nombre": "San Antonio Barrio Sto Domingo",
+    "lat": -0.0001,
+    "lng": -78.4432,
+    "": ""
+  },
+  {
+    "nombre": "Rumicucho Iglesia-estadio",
+    "lat": 0.014,
+    "lng": -78.439,
+    "": ""
+  },
+  {
+    "nombre": "Pomasqui Parque Equinoccial",
+    "lat": -0.0394,
+    "lng": -78.4472,
+    "": ""
+  },
+  {
+    "nombre": "Pomasqui Parque Equinoccial 2",
+    "lat": -0.0427,
+    "lng": -78.445,
+    "": ""
+  },
+  {
+    "nombre": "Pusuquí Alto Parque",
+    "lat": -0.0697,
+    "lng": -78.4796,
+    "": ""
+  },
+  {
+    "nombre": "La Josefina Parque UPC",
+    "lat": -0.0791,
+    "lng": -78.473,
+    "": ""
+  },
+  {
+    "nombre": "Parque La Bota",
+    "lat": -0.1173,
+    "lng": -78.4572,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central de Calacalí",
+    "lat": 0.00002,
+    "lng": -78.5145,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Mercado Artesanal",
+    "lat": -0.20695,
+    "lng": -78.4951,
+    "": ""
+  },
+  {
+    "nombre": "Parque Gabriela Mistral",
+    "lat": -0.20219,
+    "lng": -78.4887,
+    "": ""
+  },
+  {
+    "nombre": "Patio de comidas El Guambra",
+    "lat": -0.2058,
+    "lng": -78.4995,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO SAN ROQUE",
+    "lat": -0.2195,
+    "lng": -78.5255,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO SAN JUAN",
+    "lat": -0.21,
+    "lng": -78.5117,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Cumanda",
+    "lat": -0.22906,
+    "lng": -78.5106,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Recoleta Sur",
+    "lat": -0.23111,
+    "lng": -78.5135,
+    "": ""
+  },
+  {
+    "nombre": "SAN JUAN DE CALDERON",
+    "lat": -0.06068,
+    "lng": -78.4264,
+    "": ""
+  },
+  {
+    "nombre": "San Juan de Calderón Parque-UPC",
+    "lat": -0.0635,
+    "lng": -78.4294,
+    "": ""
+  },
+  {
+    "nombre": "La Pradera",
+    "lat": -0.0569,
+    "lng": -78.4209,
+    "": ""
+  },
+  {
+    "nombre": "Carapungo PArque Sideral 2",
+    "lat": -0.08911,
+    "lng": -78.4488,
+    "": ""
+  },
+  {
+    "nombre": "SAN ANDRES KIM",
+    "lat": -0.279,
+    "lng": -78.5415,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Mayorista",
+    "lat": -0.272558,
+    "lng": -78.538008,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Pio XII",
+    "lat": -0.24264,
+    "lng": -78.5045,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial Cochapamba Sur",
+    "lat": -0.15989,
+    "lng": -78.51,
+    "": ""
+  },
+  {
+    "nombre": "Vía Principal Obispo Díaz de la Madrid1",
+    "lat": -0.17962,
+    "lng": -78.517,
+    "": ""
+  },
+  {
+    "nombre": "Vía Principal Obispo Díaz de la Madrid2",
+    "lat": -0.18194,
+    "lng": -78.5162,
+    "": ""
+  },
+  {
+    "nombre": "Plaza el Quinde",
+    "lat": -0.2028,
+    "lng": -78.491,
+    "": ""
+  },
+  {
+    "nombre": "Centro de Salud Nueva Aurora",
+    "lat": -0.22607,
+    "lng": -78.5316,
+    "": ""
+  },
+  {
+    "nombre": "Pisuli",
+    "lat": -0.0892,
+    "lng": -78.5205,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial Las Tolas",
+    "lat": -0.0641,
+    "lng": -78.46,
+    "": ""
+  },
+  {
+    "nombre": "La Tola 2",
+    "lat": -0.228992,
+    "lng": -78.503506,
+    "": ""
+  },
+  {
+    "nombre": "La Tola 1",
+    "lat": -0.22668,
+    "lng": -78.5051,
+    "": ""
+  },
+  {
+    "nombre": "Parque Metropolitano Las Cuadras Quitumbe",
+    "lat": -0.2867,
+    "lng": -78.55,
+    "": ""
+  },
+  {
+    "nombre": "HÉROES DE PAQUILLA",
+    "lat": -0.3429,
+    "lng": -78.5644,
+    "": ""
+  },
+  {
+    "nombre": "EL GIRON",
+    "lat": -0.2911,
+    "lng": -78.5677,
+    "": ""
+  },
+  {
+    "nombre": "MUNICIPAL TURUBAMBA",
+    "lat": -0.314079,
+    "lng": -78.563567,
+    "": ""
+  },
+  {
+    "nombre": "Manxana de vivienda",
+    "lat": -0.06736,
+    "lng": -78.4505,
+    "": ""
+  },
+  {
+    "nombre": "Leonidas Puebla y Lucila Cabezas. Plaza de Mariana de Jesus.",
+    "lat": -0.08263,
+    "lng": -78.418,
+    "": ""
+  },
+  {
+    "nombre": "Jipijapa y Santander. Casa Comunal",
+    "lat": -0.06645,
+    "lng": -78.429,
+    "": ""
+  },
+  {
+    "nombre": "La toma N12 y Chillogallo. Casa Comunal",
+    "lat": -0.07685,
+    "lng": -78.426,
+    "": ""
+  },
+  {
+    "nombre": "Galo Plaza e Isla Santa Ana. Parque",
+    "lat": -0.0848,
+    "lng": -78.449,
+    "": ""
+  },
+  {
+    "nombre": "Francisco Robles y Galo Plaza Lasso. Parque",
+    "lat": -0.08812,
+    "lng": -78.4493,
+    "": ""
+  },
+  {
+    "nombre": "Río Macul y Río Quijos. Parque",
+    "lat": -0.09928,
+    "lng": -78.4543,
+    "": ""
+  },
+  {
+    "nombre": "El Vergel y el Arroyo. Parque",
+    "lat": -0.092,
+    "lng": -78.4486,
+    "": ""
+  },
+  {
+    "nombre": "ANTONIO FLORES Y ALBERTO ESPENCER. Parque",
+    "lat": -0.0916,
+    "lng": -78.4499,
+    "": ""
+  },
+  {
+    "nombre": "Lizardo Garcia. Parque",
+    "lat": -0.08968,
+    "lng": -78.4499,
+    "": ""
+  },
+  {
+    "nombre": "Alberto Spencer y Velasco Ibarra.",
+    "lat": -0.08987,
+    "lng": -78.4503,
+    "": ""
+  },
+  {
+    "nombre": "Dirección. Casa Somos Calderón",
+    "lat": -0.10031,
+    "lng": -78.4211,
+    "": ""
+  },
+  {
+    "nombre": "Padre Luis Vacarri y Río Chimbo. Parque Lineal",
+    "lat": -0.099,
+    "lng": -78.453,
+    "": ""
+  },
+  {
+    "nombre": "Canchas de Chimbacalle,UPC,Centro de Salud de Chimbacalle",
+    "lat": -0.24596,
+    "lng": -78.5142,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Bellavista",
+    "lat": -0.18764,
+    "lng": -78.4734,
+    "": ""
+  },
+  {
+    "nombre": "Jarrin alto",
+    "lat": -0.1146,
+    "lng": -78.4974,
+    "": ""
+  },
+  {
+    "nombre": "Mercado",
+    "lat": -0.0040821,
+    "lng": -78.4444512,
+    "": ""
+  },
+  {
+    "nombre": "60 y piquito",
+    "lat": -0.0081,
+    "lng": -78.4462,
+    "": ""
+  },
+  {
+    "nombre": "Santa Clara",
+    "lat": -0.0148,
+    "lng": -78.448,
+    "": ""
+  },
+  {
+    "nombre": "Tiwinsa",
+    "lat": -0.0974,
+    "lng": -78.5261,
+    "": ""
+  },
+  {
+    "nombre": "Parque Conocoto JUNTOS TE DAMOS CONECTIVIDAD",
+    "lat": -0.2919,
+    "lng": -78.4773,
+    "": ""
+  },
+  {
+    "nombre": "Parque Borja Yerovi",
+    "lat": -0.20293,
+    "lng": -78.4962,
+    "": ""
+  },
+  {
+    "nombre": "Parque Julio Matovelle",
+    "lat": -0.21279,
+    "lng": -78.5078,
+    "": ""
+  },
+  {
+    "nombre": "Parque Gabriel García Moreno",
+    "lat": -0.21516,
+    "lng": -78.5072,
+    "": ""
+  },
+  {
+    "nombre": "Plaza República",
+    "lat": -0.21394,
+    "lng": -78.5032,
+    "": ""
+  },
+  {
+    "nombre": "Mirador de Guápulo",
+    "lat": -0.2014,
+    "lng": -78.4791,
+    "": ""
+  },
+  {
+    "nombre": "Parque El Ejido 1",
+    "lat": -0.21014,
+    "lng": -78.5006,
+    "": ""
+  },
+  {
+    "nombre": "Parque José Navarro",
+    "lat": -0.21271,
+    "lng": -78.4846,
+    "": ""
+  },
+  {
+    "nombre": "NUEVA AURORA",
+    "lat": -0.319056,
+    "lng": -78.553097,
+    "": ""
+  },
+  {
+    "nombre": "ADMINISTRACION ZONAL QUITUMBE",
+    "lat": -0.295992,
+    "lng": -78.548117,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS BARRIO VENECIA PRIMERA ETAPA",
+    "lat": -0.338358,
+    "lng": -78.542078,
+    "": ""
+  },
+  {
+    "nombre": "DMQ PARQUE CUMANDA 1",
+    "lat": -0.22831,
+    "lng": -78.5119,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Enma Vaca",
+    "lat": -0.3191,
+    "lng": -78.527,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO SANTA MARTHA DE CHILLOGALLO",
+    "lat": -0.276139,
+    "lng": -78.5591,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO DE CAUPICHU",
+    "lat": -0.329875,
+    "lng": -78.536542,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-LaBretaña",
+    "lat": -0.311936,
+    "lng": -78.54715,
+    "": ""
+  },
+  {
+    "nombre": "SAN JOSE DE GUAMANI",
+    "lat": -0.3304,
+    "lng": -78.5478,
+    "": ""
+  },
+  {
+    "nombre": "MATILDE ALVAREZ",
+    "lat": -0.340384,
+    "lng": -78.5459,
+    "": ""
+  },
+  {
+    "nombre": "TURUBAMBA DE MONJAS",
+    "lat": -0.316792,
+    "lng": -78.559578,
+    "": ""
+  },
+  {
+    "nombre": "Parque Gabriel García Moreno",
+    "lat": -0.2158,
+    "lng": -78.5068,
+    "": ""
+  },
+  {
+    "nombre": "ESCUELA ERNESTO CHE GEVARA",
+    "lat": -0.328492,
+    "lng": -78.577558,
+    "": ""
+  },
+  {
+    "nombre": "Puembo Chiche Obrero Iglesia",
+    "lat": -0.20383,
+    "lng": -78.3635,
+    "": ""
+  },
+  {
+    "nombre": "Parque para la Vida",
+    "lat": -0.21021,
+    "lng": -78.3826,
+    "": ""
+  },
+  {
+    "nombre": "Barrio Chiviquí",
+    "lat": -0.22708,
+    "lng": -78.3877,
+    "": ""
+  },
+  {
+    "nombre": "Plaza De Los Rituales",
+    "lat": -0.38333,
+    "lng": -78.5101,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central La Merced",
+    "lat": -0.29254,
+    "lng": -78.4005,
+    "": ""
+  },
+  {
+    "nombre": "Carlos Mantilla, Plaza",
+    "lat": -0.0828,
+    "lng": -78.4371,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial Bellavista del Sur FLQ",
+    "lat": -0.3331,
+    "lng": -78.5275,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central de Tababela",
+    "lat": -0.18559,
+    "lng": -78.345,
+    "": ""
+  },
+  {
+    "nombre": "Mercado Pifo",
+    "lat": -0.2254,
+    "lng": -78.337,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Carcelén Alto",
+    "lat": -0.088753,
+    "lng": -78.4649,
+    "": ""
+  },
+  {
+    "nombre": "CHECA",
+    "lat": -0.1258234,
+    "lng": -78.3114236,
+    "": ""
+  },
+  {
+    "nombre": "SJ Collaqui Iglesia-Canchas",
+    "lat": -0.17671,
+    "lng": -78.3975,
+    "": ""
+  },
+  {
+    "nombre": "SANTA ROSA DE CHILLOGALLO",
+    "lat": -0.29502,
+    "lng": -78.5457,
+    "": ""
+  },
+  {
+    "nombre": "Estadio de Mangahuantag",
+    "lat": -0.1728,
+    "lng": -78.3719,
+    "": ""
+  },
+  {
+    "nombre": "Tola Chica 3",
+    "lat": -0.21992,
+    "lng": -78.3738,
+    "": ""
+  },
+  {
+    "nombre": "ESC. GLEN SIDE FE Y ALEGRIA",
+    "lat": -0.3348,
+    "lng": -78.3837,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Afraser",
+    "lat": -0.3073,
+    "lng": -78.3975,
+    "": ""
+  },
+  {
+    "nombre": "LLOA-PARQUE",
+    "lat": -0.24798,
+    "lng": -78.5827,
+    "": ""
+  },
+  {
+    "nombre": "Parque Santa Ana",
+    "lat": -0.2387,
+    "lng": -78.5199,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Casa Somos Roldos Pisuli",
+    "lat": -0.084474,
+    "lng": -78.509603,
+    "": ""
+  },
+  {
+    "nombre": "Parque Oyambarillo",
+    "lat": -0.19529,
+    "lng": -78.33111,
+    "": ""
+  },
+  {
+    "nombre": "Mercado Central de Tumbaco",
+    "lat": -0.185466,
+    "lng": -78.318169,
+    "": ""
+  },
+  {
+    "nombre": "San Roque 3 (Unidad Metropolitana de Salud Centro)",
+    "lat": -0.2206,
+    "lng": -78.5184,
+    "": ""
+  },
+  {
+    "nombre": "PLAZA QUITUMBE",
+    "lat": -0.29351,
+    "lng": -78.5477,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Yaruqui",
+    "lat": -0.16228965,
+    "lng": -78.3181401,
+    "": ""
+  },
+  {
+    "nombre": "Francisco Guañuna y Pasaje Turín. Casa Comunal.",
+    "lat": -0.055176,
+    "lng": -78.434255,
+    "": ""
+  },
+  {
+    "nombre": "La concordia y Pedro Ramos. Parque",
+    "lat": -0.09718964,
+    "lng": -78.43573141,
+    "": ""
+  },
+  {
+    "nombre": "Pedro Carbo Y pasaje del Corazón. Parque",
+    "lat": -0.093003,
+    "lng": -78.4514383,
+    "": ""
+  },
+  {
+    "nombre": "Miguel Guarderas y José Guarderas. Parque",
+    "lat": -0.11454167,
+    "lng": -78.4125367,
+    "": ""
+  },
+  {
+    "nombre": "Río Parula y Río Arajuno. Parque",
+    "lat": -0.101739037,
+    "lng": -78.453174,
+    "": ""
+  },
+  {
+    "nombre": "Río Blanco y Río Mira. Parque",
+    "lat": -0.102025,
+    "lng": -78.451753,
+    "": ""
+  },
+  {
+    "nombre": "Río Paute y Río Mira. Parque",
+    "lat": -0.100255,
+    "lng": -78.45163,
+    "": ""
+  },
+  {
+    "nombre": "Río Chota y Río Pindo. Parque",
+    "lat": -0.093113492,
+    "lng": -78.451586,
+    "": ""
+  },
+  {
+    "nombre": "Pablo Herrera y Flavio Alfaro. Parque",
+    "lat": -0.090045,
+    "lng": -78.45318393,
+    "": ""
+  },
+  {
+    "nombre": "Pablo Herrera. Parque",
+    "lat": -0.09001833,
+    "lng": -78.4535467,
+    "": ""
+  },
+  {
+    "nombre": "Plaza Lasso y Velasco Ibarra. Parque",
+    "lat": -0.090119,
+    "lng": -78.4483967,
+    "": ""
+  },
+  {
+    "nombre": "Casa Metro Juventudes",
+    "lat": -0.2723,
+    "lng": -78.5361,
+    "": ""
+  },
+  {
+    "nombre": "Upc Ferroviaria Media, Centro Municipal Inicial",
+    "lat": -0.25687,
+    "lng": -78.5145,
+    "": ""
+  },
+  {
+    "nombre": "Colegios Quito. Colegio Montufar. Colegio Perez Pallares.",
+    "lat": -0.240396,
+    "lng": -78.510055,
+    "": ""
+  },
+  {
+    "nombre": "Colegios Quito. Montufar y Perez Pallares. Ex escuela Argentina. Parque Fulton.",
+    "lat": -0.238191,
+    "lng": -78.511004,
+    "": ""
+  },
+  {
+    "nombre": "Colegios Quito. Montufar y Perez Pallares. Ex escuela Argentina.",
+    "lat": -0.238355,
+    "lng": -78.512951,
+    "": ""
+  },
+  {
+    "nombre": "Cancha Liga Barrial Media Luna",
+    "lat": -0.2557083,
+    "lng": -78.5201566,
+    "": ""
+  },
+  {
+    "nombre": "Parque 17 de Julio",
+    "lat": -0.2573965,
+    "lng": -78.51619832,
+    "": ""
+  },
+  {
+    "nombre": "Centro médico tipo A la raya. Capilla de la virgen del Quinche. Upc Biloxi",
+    "lat": -0.27893,
+    "lng": -78.51241,
+    "": ""
+  },
+  {
+    "nombre": "Liga deportiva Eugenio Espejo. Capilla Virgen del Cisne.",
+    "lat": -0.267331,
+    "lng": -78.558472,
+    "": ""
+  },
+  {
+    "nombre": "Lagunas de minería. laboratorio René Chardon",
+    "lat": -0.27184504,
+    "lng": -78.55571059,
+    "": ""
+  },
+  {
+    "nombre": "Upc Santa Bárbara. Capilla de Santa Bárbara",
+    "lat": -0.27180443,
+    "lng": -78.55774496,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Fe y Alegría",
+    "lat": -0.2323,
+    "lng": -78.5282,
+    "": ""
+  },
+  {
+    "nombre": "Parque central. Hospital del Sur",
+    "lat": -0.2461247,
+    "lng": -78.54016,
+    "": ""
+  },
+  {
+    "nombre": "Guardería Angel de la Guarda. Escuela Génesis",
+    "lat": -0.273821,
+    "lng": -78.526318,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Gonzalo escudero.Upc la Argelia. Cuartel Eplicachima",
+    "lat": -0.271291,
+    "lng": -78.52327,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Nicolás Gillen Estensión",
+    "lat": -0.291086,
+    "lng": -78.528225,
+    "": ""
+  },
+  {
+    "nombre": "Cristo Libertador Cacha de futbol",
+    "lat": -0.288898,
+    "lng": -78.53184,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia Cristobal Libertador",
+    "lat": -0.28464,
+    "lng": -78.5193,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia Rncho los Pinos. UPC",
+    "lat": -0.2913,
+    "lng": -78.51802,
+    "": ""
+  },
+  {
+    "nombre": "UPC. Casa Barrial.Liga barrial Argelia Alta. Unidad Educativa. Iglesia Sagrada Familia",
+    "lat": -0.28459,
+    "lng": -78.51923,
+    "": ""
+  },
+  {
+    "nombre": "Casa Barrial. Cancha de Boley. Cacha de futbol",
+    "lat": -0.28016,
+    "lng": -78.52728,
+    "": ""
+  },
+  {
+    "nombre": "Casa BarriaL. Canchas deportivas",
+    "lat": -0.2916181,
+    "lng": -78.5323563,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 1: CLEMENCIA YANEZ",
+    "lat": -0.188233,
+    "lng": -78.473609,
+    "": ""
+  },
+  {
+    "nombre": "Fundación Virgen de Fatima. Refugio de Macotas. Casa Barrial",
+    "lat": -0.27819,
+    "lng": -78.51164,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 5: EDWIN SIMBAÑA",
+    "lat": -0.189,
+    "lng": -78.4724,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 6: YADIRA CUEVA",
+    "lat": -0.189152,
+    "lng": -78.473121,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 7: CRISTIAN SIMBAÑA",
+    "lat": -0.1898,
+    "lng": -78.4722,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 8: ELVIA RONQUILLO",
+    "lat": -0.189728,
+    "lng": -78.472993,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 18: ALEX RONQUILLO",
+    "lat": -0.1905,
+    "lng": -78.4741,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 19: PATRICIA CHAUCA",
+    "lat": -0.189,
+    "lng": -78.4703,
+    "": ""
+  },
+  {
+    "nombre": "SAN ROQUE",
+    "lat": -0.148472,
+    "lng": -78.44264,
+    "": ""
+  },
+  {
+    "nombre": "LA PLAYITA",
+    "lat": -0.148415,
+    "lng": -78.44262833,
+    "": ""
+  },
+  {
+    "nombre": "(GARCIA MORENO Y NOGALES)",
+    "lat": -0.138483,
+    "lng": -78.413351,
+    "": ""
+  },
+  {
+    "nombre": "Casa comunal",
+    "lat": -0.047863,
+    "lng": -78.456574,
+    "": ""
+  },
+  {
+    "nombre": "Comité promejoras",
+    "lat": -0.118054,
+    "lng": -78.504522,
+    "": ""
+  },
+  {
+    "nombre": "Parque de la súper Mz. A Carcelén Bev",
+    "lat": -0.085192,
+    "lng": -78.469868,
+    "": ""
+  },
+  {
+    "nombre": "Escalinata2",
+    "lat": -0.1087,
+    "lng": -78.4842,
+    "": ""
+  },
+  {
+    "nombre": "Escalinata3",
+    "lat": -0.10880595,
+    "lng": -78.4849687,
+    "": ""
+  },
+  {
+    "nombre": "Puertas del sol",
+    "lat": -0.110827,
+    "lng": -78.465696,
+    "": ""
+  },
+  {
+    "nombre": "Señor del árbol",
+    "lat": -0.0098467,
+    "lng": -78.44129167,
+    "": ""
+  },
+  {
+    "nombre": "Alcantarillas",
+    "lat": 0.00367,
+    "lng": -78.4604559,
+    "": ""
+  },
+  {
+    "nombre": "Comunidad",
+    "lat": -0.01437166,
+    "lng": -78.435403,
+    "": ""
+  },
+  {
+    "nombre": "parque y centro de capacitación",
+    "lat": -0.0814,
+    "lng": -78.46794,
+    "": ""
+  },
+  {
+    "nombre": "MI PROVIDENCIA",
+    "lat": -0.3386,
+    "lng": -78.4867,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL DE MIRANDA BAJO",
+    "lat": -0.331958,
+    "lng": -78.487802,
+    "": ""
+  },
+  {
+    "nombre": "SFRANCISCONET",
+    "lat": -0.3256616,
+    "lng": -78.4756483,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE BARRIAL BARRIOS: LA SALLE 2.QUITUMBE.SALLE 1. SAN FCO.",
+    "lat": -0.324275,
+    "lng": -78.471848,
+    "": ""
+  },
+  {
+    "nombre": "AMERICA",
+    "lat": -0.29151,
+    "lng": -78.47164,
+    "": ""
+  },
+  {
+    "nombre": "Quito y Virgilio Flor (Checa)",
+    "lat": -0.128642,
+    "lng": -78.308691,
+    "": ""
+  },
+  {
+    "nombre": "Cerca a Hospital Alberto Correa Cornejo",
+    "lat": -0.1646889,
+    "lng": -78.318886,
+    "": ""
+  },
+  {
+    "nombre": "17 de Septiembre y Dolorosa. Parque de Gualo",
+    "lat": -0.141228716,
+    "lng": -78.442149,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Pablo Neruda. Iglesia Reino de Quito.",
+    "lat": -0.2568798,
+    "lng": -78.5561064,
+    "": ""
+  },
+  {
+    "nombre": "Upc La León. Colegio Sandunbilde. Casa barrial",
+    "lat": -0.2388333,
+    "lng": -78.5341579,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia Santa Rafaela María del Barrio Marcopamba. Upc Marcopamba y casa barrial",
+    "lat": -0.2450786,
+    "lng": -78.5354413,
+    "": ""
+  },
+  {
+    "nombre": "UPC Lucha de los pobres.Iglesia Cristo Libertador. Escuela Inti",
+    "lat": -0.2871886,
+    "lng": -78.5310524,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Vicente Crespo. Centro de Salud. Alvergue Jesuita Para Refugiados en movilidad. Iglesia oriente Quiteño",
+    "lat": -0.2780757,
+    "lng": -78.5146617,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Trole La Magdalena",
+    "lat": -0.2388973,
+    "lng": -78.5251339,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Diversidades",
+    "lat": -0.2613188,
+    "lng": -78.5234514,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 3: CECILIA CHAVEZ",
+    "lat": -0.188549,
+    "lng": -78.470366,
+    "": ""
+  },
+  {
+    "nombre": "SAN MIGUEL DE ZÁMBIZA",
+    "lat": -0.149809,
+    "lng": -78.435887,
+    "": ""
+  },
+  {
+    "nombre": "IGLESIA BAUTISTA (GARCIA MORENO Y 29 SEPTIEMBRE)",
+    "lat": -0.138794,
+    "lng": -78.420787,
+    "": ""
+  },
+  {
+    "nombre": "GRADERIO CANCHA DE FUTBOL (MARIANO SIMBAÑA)",
+    "lat": -0.1396,
+    "lng": -78.4256,
+    "": ""
+  },
+  {
+    "nombre": "ULTIMA PARADA DE BUSES (CALLE LA LOMA)",
+    "lat": -0.140427,
+    "lng": -78.411462,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Zámbiza",
+    "lat": -0.148431,
+    "lng": -78.442664,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Nayón",
+    "lat": -0.156558,
+    "lng": -78.439528,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Cocotog",
+    "lat": -0.139821,
+    "lng": -78.426282,
+    "": ""
+  },
+  {
+    "nombre": "Parque las Piramides junto a la UPC",
+    "lat": -0.086897,
+    "lng": -78.470221,
+    "": ""
+  },
+  {
+    "nombre": "Parque",
+    "lat": -0.077078,
+    "lng": -78.470221,
+    "": ""
+  },
+  {
+    "nombre": "Boulevard barrio independencia",
+    "lat": -0.058088,
+    "lng": -78.455248,
+    "": ""
+  },
+  {
+    "nombre": "Comité central",
+    "lat": -0.125358,
+    "lng": -78.497712,
+    "": ""
+  },
+  {
+    "nombre": "Parque Infantil",
+    "lat": 0.005153,
+    "lng": -78.440641,
+    "": ""
+  },
+  {
+    "nombre": "Cenepa",
+    "lat": 0.005439,
+    "lng": -78.448049,
+    "": ""
+  },
+  {
+    "nombre": "Vista hermosa",
+    "lat": -0.08621,
+    "lng": -78.513315,
+    "": ""
+  },
+  {
+    "nombre": "Canchas multiples",
+    "lat": -0.095092,
+    "lng": -78.526925,
+    "": ""
+  },
+  {
+    "nombre": "Anita Lucia2",
+    "lat": -0.117557,
+    "lng": -78.519793,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Pomasqui",
+    "lat": -0.057168,
+    "lng": -78.454363,
+    "": ""
+  },
+  {
+    "nombre": "PARADA TRANS CAPELO",
+    "lat": -0.329489,
+    "lng": -78.498436,
+    "": ""
+  },
+  {
+    "nombre": "Jipijapa y los dos Rios. Parque",
+    "lat": -0.066300443,
+    "lng": -78.427558,
+    "": ""
+  },
+  {
+    "nombre": "García Moreno y calle Ingahuayco. Casa Comunal",
+    "lat": -0.123356,
+    "lng": -78.4271083,
+    "": ""
+  },
+  {
+    "nombre": "Pio XII. Casa Comunal",
+    "lat": -0.063888946,
+    "lng": -78.429877,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO CENTRAL",
+    "lat": -0.219871,
+    "lng": -78.507156,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO SAN FRANCISCO",
+    "lat": -0.2199647,
+    "lng": -78.5184176,
+    "": ""
+  },
+  {
+    "nombre": "Calle Cuenca y Chile",
+    "lat": -0.2184879,
+    "lng": -78.5136587,
+    "": ""
+  },
+  {
+    "nombre": "Plaza de las Conceptas",
+    "lat": -0.2189442,
+    "lng": -78.5117632,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Gonzalo Escudero . Upc Zumbagua y Balzar",
+    "lat": -0.27127,
+    "lng": -78.523282,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Chiriyacu",
+    "lat": -0.247,
+    "lng": -78.5184,
+    "": ""
+  },
+  {
+    "nombre": "Parque Sodiro",
+    "lat": -0.117267,
+    "lng": -78.497582,
+    "": ""
+  },
+  {
+    "nombre": "Asamblea barrial",
+    "lat": -0.121228,
+    "lng": -78.483626,
+    "": ""
+  },
+  {
+    "nombre": "Cancha liga quito norte",
+    "lat": -0.125368,
+    "lng": -78.498346,
+    "": ""
+  },
+  {
+    "nombre": "El manantial",
+    "lat": -0.095131,
+    "lng": -78.507551,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia de San Jose",
+    "lat": -0.093191,
+    "lng": -78.500275,
+    "": ""
+  },
+  {
+    "nombre": "CALLE EUJENIO ESPEJO",
+    "lat": -0.381078,
+    "lng": -78.506258,
+    "": ""
+  },
+  {
+    "nombre": "PLAZA VERDEPAMBA",
+    "lat": -0.378209,
+    "lng": -78.373813,
+    "": ""
+  },
+  {
+    "nombre": "CANCHA DE FÚTBOL ESPACIO PÚBLICO DEPORTIVO",
+    "lat": -0.370978,
+    "lng": -78.50412,
+    "": ""
+  },
+  {
+    "nombre": "ESQUINA DE LA GRUTA DEL DIVINO NIÑO LA FLORIDA",
+    "lat": -0.366933,
+    "lng": -78.499977,
+    "": ""
+  },
+  {
+    "nombre": "AREAS COMUNALES",
+    "lat": -0.365429,
+    "lng": -78.47684,
+    "": ""
+  },
+  {
+    "nombre": "Av. Patria",
+    "lat": -0.208965,
+    "lng": -78.494883,
+    "": ""
+  },
+  {
+    "nombre": "12 de octubre",
+    "lat": -0.20576,
+    "lng": -78.48693,
+    "": ""
+  },
+  {
+    "nombre": "Centro Cultural Benjamín Carrión",
+    "lat": -0.205296,
+    "lng": -78.497773,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Educativa Daniel E Proaño",
+    "lat": -0.370978,
+    "lng": -78.50412,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Educativa 10 de Agosto",
+    "lat": -0.2125619,
+    "lng": -78.5114643,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Educativa Pichincha",
+    "lat": -0.2084357,
+    "lng": -78.5199305,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Mejía",
+    "lat": -0.2110867,
+    "lng": -78.5041231,
+    "": ""
+  },
+  {
+    "nombre": "Colegio Simón Bolívar",
+    "lat": -0.2092981,
+    "lng": -78.5025784,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Educativa Lucila Santos",
+    "lat": -0.2463132,
+    "lng": -78.4834717,
+    "": ""
+  },
+  {
+    "nombre": "San Francisco",
+    "lat": -0.220955,
+    "lng": -78.515112,
+    "": ""
+  },
+  {
+    "nombre": "Parque Alma Lojana",
+    "lat": -0.2337894,
+    "lng": -78.4826461,
+    "": ""
+  },
+  {
+    "nombre": "Parque Cuscungo",
+    "lat": -0.2312236,
+    "lng": -78.4848339,
+    "": ""
+  },
+  {
+    "nombre": "Parque San Miguel de Collacoto",
+    "lat": -0.2464581,
+    "lng": -78.4831606,
+    "": ""
+  },
+  {
+    "nombre": "Punto Seguro San José de Monjas",
+    "lat": -0.2310375,
+    "lng": -78.4925125,
+    "": ""
+  },
+  {
+    "nombre": "Parque Eloy Alfaro",
+    "lat": -0.2420901,
+    "lng": -78.4873966,
+    "": ""
+  },
+  {
+    "nombre": "Parque José Luis Rodríguez",
+    "lat": -0.2548883,
+    "lng": -78.4904162,
+    "": ""
+  },
+  {
+    "nombre": "Parque Sauces del Valle",
+    "lat": -0.254809,
+    "lng": -78.4872527,
+    "": ""
+  },
+  {
+    "nombre": "Parque San Isidro de Puengasí",
+    "lat": -0.2472668,
+    "lng": -78.4974225,
+    "": ""
+  },
+  {
+    "nombre": "Plaza de San Blas",
+    "lat": -0.2175776011,
+    "lng": -78.5054801,
+    "": ""
+  },
+  {
+    "nombre": "Parque Julio Moreno (barrio El Dorado)",
+    "lat": -0.2149893,
+    "lng": -78.4926082,
+    "": ""
+  },
+  {
+    "nombre": "Parque de uso multiple Los Prados (Vicentina Baja)",
+    "lat": -0.2151274,
+    "lng": -78.4871483,
+    "": ""
+  },
+  {
+    "nombre": "Obelisco de La Vicentina",
+    "lat": -0.2151274,
+    "lng": -78.4871483,
+    "": ""
+  },
+  {
+    "nombre": "Huancavilca y Caras",
+    "lat": -0.2292544,
+    "lng": -78.5235738,
+    "": ""
+  },
+  {
+    "nombre": "MATILDE ALVAREZ",
+    "lat": -0.342164,
+    "lng": -78.549769,
+    "": ""
+  },
+  {
+    "nombre": "ASOCIACION MUSHUK KAWSAY",
+    "lat": -0.35309,
+    "lng": -78.55826,
+    "": ""
+  },
+  {
+    "nombre": "LA ESPERANZA DE GUAMANI ALTO",
+    "lat": -0.33725,
+    "lng": -78.56823,
+    "": ""
+  },
+  {
+    "nombre": "BETHEL 3 CASCADAS",
+    "lat": -0.3363,
+    "lng": -78.58003,
+    "": ""
+  },
+  {
+    "nombre": "PAMPA ECUATORIANA",
+    "lat": -0.33692,
+    "lng": -78.57927,
+    "": ""
+  },
+  {
+    "nombre": "IGUALDAD SOCIAL",
+    "lat": -0.33343,
+    "lng": -78.57068,
+    "": ""
+  },
+  {
+    "nombre": "UPC Guápulo",
+    "lat": -0.2015266,
+    "lng": -78.4763933,
+    "": ""
+  },
+  {
+    "nombre": "Ninahuilca y Cero del Gallo. Parque",
+    "lat": -0.093262854,
+    "lng": -78.449979,
+    "": ""
+  },
+  {
+    "nombre": "Coliseo. Upc Concepción del Sur. Colegio Saldumbide. Cementerio de la Magdalena",
+    "lat": -0.2425,
+    "lng": -78.5376,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 15: ANA TACO",
+    "lat": -0.190936,
+    "lng": -78.469961,
+    "": ""
+  },
+  {
+    "nombre": "Av. Patria",
+    "lat": -0.207601,
+    "lng": -78.497809,
+    "": ""
+  },
+  {
+    "nombre": "Plaza de los Presidentes",
+    "lat": -0.206,
+    "lng": -78.49609,
+    "": ""
+  },
+  {
+    "nombre": "Parque Nicaragua",
+    "lat": -0.2075928,
+    "lng": -78.5092982,
+    "": ""
+  },
+  {
+    "nombre": "PRIMAVERA DE CORNEJO",
+    "lat": -0.32554,
+    "lng": -78.561122,
+    "": ""
+  },
+  {
+    "nombre": "LA TRINIDAD",
+    "lat": -0.3408,
+    "lng": -78.556,
+    "": ""
+  },
+  {
+    "nombre": "SULTANA DE LOS ANDES",
+    "lat": -0.34934,
+    "lng": -78.56766,
+    "": ""
+  },
+  {
+    "nombre": "HOSPITAL 1",
+    "lat": -0.3061452,
+    "lng": -78.5301715,
+    "": ""
+  },
+  {
+    "nombre": "HOSPITAL 2",
+    "lat": -0.305182,
+    "lng": -78.5337684,
+    "": ""
+  },
+  {
+    "nombre": "TAMBO DEL INCA 1",
+    "lat": -0.29966,
+    "lng": -78.519578,
+    "": ""
+  },
+  {
+    "nombre": "TRÉBOLES DEL SUR",
+    "lat": -0.312205,
+    "lng": -78.534599,
+    "": ""
+  },
+  {
+    "nombre": "TAMBOLLACTA",
+    "lat": -0.289831,
+    "lng": -78.542434,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS CAUPICHO 2",
+    "lat": -0.3282,
+    "lng": -78.5382,
+    "": ""
+  },
+  {
+    "nombre": "SANTA FE",
+    "lat": -0.318,
+    "lng": -78.5355,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS ECASA",
+    "lat": -0.3191981,
+    "lng": -78.5335428,
+    "": ""
+  },
+  {
+    "nombre": "BIENESTAR COMUNITARIO",
+    "lat": -0.3553205,
+    "lng": -78.5455118,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS BARRIO EL SOL",
+    "lat": -0.3548583,
+    "lng": -78.5353885,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS CAUPICHO 1",
+    "lat": -0.32888,
+    "lng": -78.5387767,
+    "": ""
+  },
+  {
+    "nombre": "CARLOS EDUARDO FRANCO MENDEZ",
+    "lat": -0.315278,
+    "lng": -78.543306,
+    "": ""
+  },
+  {
+    "nombre": "VIDA NUEVA 2",
+    "lat": -0.35123,
+    "lng": -78.52894,
+    "": ""
+  },
+  {
+    "nombre": "PROMEJORAS SANTA ISABEL",
+    "lat": -0.322796,
+    "lng": -78.532398,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS CAUPICHO 1",
+    "lat": -0.32849,
+    "lng": -78.54055,
+    "": ""
+  },
+  {
+    "nombre": "SANTA GLORIA M21",
+    "lat": -0.3286,
+    "lng": -78.53001,
+    "": ""
+  },
+  {
+    "nombre": "SAN JOSE DE GUAMANI",
+    "lat": -0.326,
+    "lng": -78.54869,
+    "": ""
+  },
+  {
+    "nombre": "DORADO DEL SUR",
+    "lat": -0.322457,
+    "lng": -78.546114,
+    "": ""
+  },
+  {
+    "nombre": "SANTO TOMAS NORTE",
+    "lat": -0.3296,
+    "lng": -78.5452,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS SECTOR 9 LAS CUADRAS",
+    "lat": -0.281413,
+    "lng": -78.554576,
+    "": ""
+  },
+  {
+    "nombre": "JULIO MATOVELLE",
+    "lat": -0.285803,
+    "lng": -78.563248,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Nueva Aurora",
+    "lat": -0.319506,
+    "lng": -78.551042,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Franco Méndez",
+    "lat": -0.315252,
+    "lng": -78.543324,
+    "": ""
+  },
+  {
+    "nombre": "AUXILIARES DE ENFERMERÍA",
+    "lat": -0.3045,
+    "lng": -78.55927,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS BARRIO ESPEJO",
+    "lat": -0.30225,
+    "lng": -78.57211,
+    "": ""
+  },
+  {
+    "nombre": "BARRIO SAN ALFONSO (AREA COMUNAL)",
+    "lat": -0.327998,
+    "lng": -78.576594,
+    "": ""
+  },
+  {
+    "nombre": "La Isla - Casa Barrial",
+    "lat": "-0.213219,",
+    "lng": -78.326447,
+    "": ""
+  },
+  {
+    "nombre": "Capilla Buena Esperanza",
+    "lat": "-0.195939,",
+    "lng": -78.38399,
+    "": ""
+  },
+  {
+    "nombre": "Casa Comunal Leopoldo Chavez",
+    "lat": -0.224298,
+    "lng": -78.396917,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Tolagasí",
+    "lat": -0.211,
+    "lng": -78.4205,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Tola Grande",
+    "lat": -0.21086,
+    "lng": -78.37691,
+    "": ""
+  },
+  {
+    "nombre": "Casa Social Las Marias",
+    "lat": "-0.219028,",
+    "lng": -78.4115,
+    "": ""
+  },
+  {
+    "nombre": "Plazoleta Noboa",
+    "lat": -0.12268,
+    "lng": -78.32348,
+    "": ""
+  },
+  {
+    "nombre": "Casa barrial Cochabamba",
+    "lat": "-0.219361,",
+    "lng": -78.402722,
+    "": ""
+  },
+  {
+    "nombre": "Estadio Jaime del Castillo",
+    "lat": -0.23042,
+    "lng": -78.33606,
+    "": ""
+  },
+  {
+    "nombre": "Coliseo de Yaruqui",
+    "lat": -0.1646889,
+    "lng": -78.318886,
+    "": ""
+  },
+  {
+    "nombre": "Liga Barrial El Ejido",
+    "lat": -0.382603,
+    "lng": -78.509417,
+    "": ""
+  },
+  {
+    "nombre": "Plaza Gastronómica El Tingo",
+    "lat": -0.287703,
+    "lng": -78.439247,
+    "": ""
+  },
+  {
+    "nombre": "Plaza De Los Rituales",
+    "lat": -0.384542,
+    "lng": -78.510998,
+    "": ""
+  },
+  {
+    "nombre": "Casa Comunal Guamaní Alto",
+    "lat": -0.32916,
+    "lng": -78.55924,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL DE MIRANDA",
+    "lat": -0.33203,
+    "lng": -78.48936,
+    "": ""
+  },
+  {
+    "nombre": "Centro de salud Hierba Buena 2. Retén Policial",
+    "lat": -0.275805,
+    "lng": -78.52152,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE DEL ENCUENTRO",
+    "lat": -0.188324,
+    "lng": -78.50248,
+    "": ""
+  },
+  {
+    "nombre": "Av. Patria",
+    "lat": -0.20668246,
+    "lng": -78.49850457,
+    "": ""
+  },
+  {
+    "nombre": "SAN CARLOS DEL SUR",
+    "lat": -0.3036263,
+    "lng": -78.5338324,
+    "": ""
+  },
+  {
+    "nombre": "LA INMACULADA",
+    "lat": -0.314997,
+    "lng": -78.559596,
+    "": ""
+  },
+  {
+    "nombre": "Upc Santa Rosa de la Argelia. Escuela San Martin. Fabrica Fosforera ecuatoriana",
+    "lat": -0.2763854,
+    "lng": -78.5279831,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Ferroviaria",
+    "lat": -0.2629412,
+    "lng": -78.5147044,
+    "": ""
+  },
+  {
+    "nombre": "Casa comunal",
+    "lat": -0.104392,
+    "lng": -78.485546,
+    "": ""
+  },
+  {
+    "nombre": "Simón Bolívar & Manuel Durini encuesta",
+    "lat": -0.3772815,
+    "lng": -78.5051122,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE CENTRAL DE AMAGUAÑA",
+    "lat": -0.3752977,
+    "lng": -78.5056998,
+    "": ""
+  },
+  {
+    "nombre": "CANCHA LA VICTORIA",
+    "lat": -0.3658248,
+    "lng": -78.4767264,
+    "": ""
+  },
+  {
+    "nombre": "ATAHUALPA",
+    "lat": -0.3367423,
+    "lng": -78.4808555,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos San Bartolo",
+    "lat": -0.2681731,
+    "lng": -78.5282275,
+    "": ""
+  },
+  {
+    "nombre": "ESQUINA DEL MOVIMIENTO",
+    "lat": -0.148256,
+    "lng": -78.440591,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO DE CONOCOTO",
+    "lat": -0.2974121,
+    "lng": -78.4804314,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Educativa Pedro Jose Arteta- La Merced",
+    "lat": -0.2912086,
+    "lng": -78.4023073,
+    "": ""
+  },
+  {
+    "nombre": "Alangasi Parque San Carlos",
+    "lat": -0.296593,
+    "lng": -78.440865,
+    "": ""
+  },
+  {
+    "nombre": "Alangasi",
+    "lat": -0.3065231,
+    "lng": -78.416583,
+    "": ""
+  },
+  {
+    "nombre": "Unidad de Salud Centro Patronato San José",
+    "lat": -0.2206,
+    "lng": -78.5183,
+    "": ""
+  },
+  {
+    "nombre": "Plazuela Quishuar",
+    "lat": -0.05289595202,
+    "lng": -78.46316528,
+    "": ""
+  },
+  {
+    "nombre": "Cordillera de cotocollao",
+    "lat": -0.1268554,
+    "lng": -78.5251475,
+    "": ""
+  },
+  {
+    "nombre": "CALLE A",
+    "lat": -0.3344066,
+    "lng": -78.4402466,
+    "": ""
+  },
+  {
+    "nombre": "Av. Patria",
+    "lat": -0.2090995,
+    "lng": -78.4947455,
+    "": ""
+  },
+  {
+    "nombre": "12 de octubre",
+    "lat": -0.2086549,
+    "lng": -78.4914571,
+    "": ""
+  },
+  {
+    "nombre": "12 de octubre",
+    "lat": -0.2033973,
+    "lng": -78.4834673,
+    "": ""
+  },
+  {
+    "nombre": "Parque Julio Endara (sector Itchimbia)",
+    "lat": -0.2188589275,
+    "lng": -78.49812317,
+    "": ""
+  },
+  {
+    "nombre": "Plaza de Guápulo",
+    "lat": -0.2009307,
+    "lng": -78.4751278,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS AÑORANZA",
+    "lat": -0.3461007,
+    "lng": -78.5646613,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORES PLAN VICTORIA",
+    "lat": -0.3441471,
+    "lng": -78.5582774,
+    "": ""
+  },
+  {
+    "nombre": "DOLOROSA ALTA",
+    "lat": -0.3404015,
+    "lng": -78.5816201,
+    "": ""
+  },
+  {
+    "nombre": "LA COMPAÑÍA DE GUAMANI",
+    "lat": -0.3404015,
+    "lng": -78.5816201,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 14: ROCIO AGUIRRE",
+    "lat": -0.1899836,
+    "lng": -78.4699122,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 17: TNTE. EDWIN PILATAXI",
+    "lat": -0.1912911,
+    "lng": -78.4697553,
+    "": ""
+  },
+  {
+    "nombre": "HEROES DE PAQUISHA",
+    "lat": -0.3434158,
+    "lng": -78.5623293,
+    "": ""
+  },
+  {
+    "nombre": "PUEBLO UNIDO ALTO",
+    "lat": -0.2978556,
+    "lng": -78.5291886,
+    "": ""
+  },
+  {
+    "nombre": "FUNDEPORTE",
+    "lat": -0.2846667,
+    "lng": -78.55191,
+    "": ""
+  },
+  {
+    "nombre": "LA COCHA",
+    "lat": -0.3200983,
+    "lng": -78.52715,
+    "": ""
+  },
+  {
+    "nombre": "SANTA ROSA DE CHILLOGALLO 1ra ETAPA",
+    "lat": -0.278278,
+    "lng": -78.563264,
+    "": ""
+  },
+  {
+    "nombre": "BUENAVENTURA BAJO",
+    "lat": -0.2815183,
+    "lng": -78.5816833,
+    "": ""
+  },
+  {
+    "nombre": "SAN FRANCISCO DE HUARCAY 1",
+    "lat": -0.2954993,
+    "lng": -78.5757141,
+    "": ""
+  },
+  {
+    "nombre": "LA CONCORDIA",
+    "lat": -0.2970761,
+    "lng": -78.5608266,
+    "": ""
+  },
+  {
+    "nombre": "Cancha de césped sintético y otras áreas recreativas.",
+    "lat": -0.2305918,
+    "lng": -78.3400749,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Yaruqui",
+    "lat": -0.162415,
+    "lng": -78.315491,
+    "": ""
+  },
+  {
+    "nombre": "Dirección. Casa Somos Bicentenario",
+    "lat": -0.066004,
+    "lng": -78.451927,
+    "": ""
+  },
+  {
+    "nombre": "NANEGAL-PARQUE",
+    "lat": 0.1370848,
+    "lng": -78.6754418,
+    "": ""
+  },
+  {
+    "nombre": "NANEGAL-ESTADIO",
+    "lat": 0.1387939,
+    "lng": -78.6786752,
+    "": ""
+  },
+  {
+    "nombre": "Estadio de Conocoto",
+    "lat": -0.2975109,
+    "lng": -78.4805576,
+    "": ""
+  },
+  {
+    "nombre": "Fabrica Tanasa",
+    "lat": -0.277461,
+    "lng": -78.525689,
+    "": ""
+  },
+  {
+    "nombre": "Centro Infantil Estrellitas del Sur",
+    "lat": -0.277153,
+    "lng": -78.521683,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Lloa",
+    "lat": -0.2476936,
+    "lng": -78.582705,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Atahualpa",
+    "lat": -0.2490182,
+    "lng": -78.5277045,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 11: CARLOS ESCOLA",
+    "lat": "-0.1902744,",
+    "lng": -78.4711535,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 16: ALVARO BRMEO",
+    "lat": -0.191247,
+    "lng": -78.470452,
+    "": ""
+  },
+  {
+    "nombre": "Anita Lucia1",
+    "lat": -0.115613,
+    "lng": -78.517616,
+    "": ""
+  },
+  {
+    "nombre": "AREA VERDE \"EL ARBOLITO DE GUABA",
+    "lat": -0.385287,
+    "lng": -78.512342,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL DE LA VAQUERÍA",
+    "lat": -0.3926906,
+    "lng": -78.5026473,
+    "": ""
+  },
+  {
+    "nombre": "PUNTO SEGURO CUENDINA",
+    "lat": -0.3747332,
+    "lng": -78.4809536,
+    "": ""
+  },
+  {
+    "nombre": "EL ESTADIO DE PÍNTAG",
+    "lat": -0.3728138,
+    "lng": -78.3733654,
+    "": ""
+  },
+  {
+    "nombre": "MIRADOR BARRIO CARAPUNGO ALTO.",
+    "lat": -0.360165,
+    "lng": -78.5115517,
+    "": ""
+  },
+  {
+    "nombre": "VECINONET",
+    "lat": -0.358667,
+    "lng": -78.481333,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL CARLOS MARÍA DE LA TORRE",
+    "lat": -0.297264,
+    "lng": -78.43729,
+    "": ""
+  },
+  {
+    "nombre": "IGLESIA DEL BARRIO SANTA ROSA DE CONOCOTO",
+    "lat": -0.2909118,
+    "lng": -78.5018429,
+    "": ""
+  },
+  {
+    "nombre": "CANCHA DE VOLEY",
+    "lat": -0.2883336,
+    "lng": -78.4080687,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL",
+    "lat": -0.2864712,
+    "lng": -78.4713643,
+    "": ""
+  },
+  {
+    "nombre": "CANCHAS DEL BARRIO BELLAVISTA",
+    "lat": -0.2881167,
+    "lng": -78.3989367,
+    "": ""
+  },
+  {
+    "nombre": "IGLESIASAN JOSÉ COMUNA SAN PEDRO DEL TINGO.",
+    "lat": -0.2838404,
+    "lng": -78.436989,
+    "": ""
+  },
+  {
+    "nombre": "LOS EUCALIPTOS. SUBCENTRO DE SALUD EL TINGO",
+    "lat": -0.285615,
+    "lng": -78.4401933,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL ANDALUZ",
+    "lat": -0.2851116,
+    "lng": -78.4828334,
+    "": ""
+  },
+  {
+    "nombre": "Plaza veintimilla",
+    "lat": -0.202113,
+    "lng": -78.494263,
+    "": ""
+  },
+  {
+    "nombre": "Parque Edén del Valle",
+    "lat": -0.2397138,
+    "lng": -78.4918867,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Puengasí",
+    "lat": -0.2547932,
+    "lng": -78.4870177,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos San José de Monjas",
+    "lat": -0.2324909,
+    "lng": -78.4937996,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos San Diego",
+    "lat": -0.2239002,
+    "lng": -78.5215867,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Toctiuco",
+    "lat": -0.2080712,
+    "lng": -78.5228477,
+    "": ""
+  },
+  {
+    "nombre": "TIERRA MIA",
+    "lat": -0.3397113,
+    "lng": -78.5798312,
+    "": ""
+  },
+  {
+    "nombre": "TURUBAMBA DE MONJAS BED",
+    "lat": -0.32024,
+    "lng": -78.563415,
+    "": ""
+  },
+  {
+    "nombre": "EJERCITO 1",
+    "lat": -0.311327,
+    "lng": -78.548349,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ DE INTERES SOCIAL E INTERCULTURAL RUMIÑAHUI",
+    "lat": -0.294665,
+    "lng": -78.576686,
+    "": ""
+  },
+  {
+    "nombre": "PRIMICIAS DE LA CULTURA DE QUITO",
+    "lat": -0.292423,
+    "lng": -78.560082,
+    "": ""
+  },
+  {
+    "nombre": "MARTHA BUCARAM",
+    "lat": -0.295453,
+    "lng": -78.563028,
+    "": ""
+  },
+  {
+    "nombre": "CASA COMUNAL SAN ALFONSO",
+    "lat": -0.321977,
+    "lng": -78.574669,
+    "": ""
+  },
+  {
+    "nombre": "LAURELES DEL SUR",
+    "lat": -0.32943,
+    "lng": -78.569349,
+    "": ""
+  },
+  {
+    "nombre": "JARDINES DE NINALLACTA",
+    "lat": -0.304787,
+    "lng": -78.558624,
+    "": ""
+  },
+  {
+    "nombre": "VISTA HERMOSA DEL SUR",
+    "lat": -0.305159,
+    "lng": -78.531918,
+    "": ""
+  },
+  {
+    "nombre": "VENCEREMOS",
+    "lat": -0.319388,
+    "lng": -78.530485,
+    "": ""
+  },
+  {
+    "nombre": "MIRADOR DE GUAJALO",
+    "lat": -0.335373,
+    "lng": -78.533437,
+    "": ""
+  },
+  {
+    "nombre": "VALLE DEL SUR",
+    "lat": -0.315633,
+    "lng": -78.527486,
+    "": ""
+  },
+  {
+    "nombre": "PANAMERICANA SUR",
+    "lat": -0.3081632,
+    "lng": -78.5330287,
+    "": ""
+  },
+  {
+    "nombre": "HUERTAS DEL SUR",
+    "lat": -0.354031,
+    "lng": -78.529876,
+    "": ""
+  },
+  {
+    "nombre": "GENERAL RUMIÑAHUI",
+    "lat": -0.3421603,
+    "lng": -78.5468245,
+    "": ""
+  },
+  {
+    "nombre": "EL CISNE",
+    "lat": -0.3347217,
+    "lng": -78.5342317,
+    "": ""
+  },
+  {
+    "nombre": "NUEVA JERUSALEM",
+    "lat": -0.336833,
+    "lng": -78.537611,
+    "": ""
+  },
+  {
+    "nombre": "GARROCHAL",
+    "lat": -0.335373,
+    "lng": -78.533437,
+    "": ""
+  },
+  {
+    "nombre": "JESUS DE NARAZET",
+    "lat": -0.3204617,
+    "lng": -78.5372015,
+    "": ""
+  },
+  {
+    "nombre": "MUSCULOS Y RIELES",
+    "lat": -0.330153,
+    "lng": -78.526039,
+    "": ""
+  },
+  {
+    "nombre": "BARRIO LOS ANDES",
+    "lat": -0.279778,
+    "lng": -78.565944,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Oyambarillo.",
+    "lat": -0.1946297,
+    "lng": -78.3317342,
+    "": ""
+  },
+  {
+    "nombre": "Parque del barrio junto al estadio de Plazapamba.",
+    "lat": -0.2334452,
+    "lng": -78.3835247,
+    "": ""
+  },
+  {
+    "nombre": "Parque central junto a la Iglesia de Mangahuantag y Centro de Salud.",
+    "lat": -0.1688714,
+    "lng": -78.3706329,
+    "": ""
+  },
+  {
+    "nombre": "Parque el Campamento\" conocido como punto seguro del Municipio.",
+    "lat": -0.1807363,
+    "lng": -78.3734097,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia San José de Puembo",
+    "lat": -0.1974874,
+    "lng": -78.3473873,
+    "": ""
+  },
+  {
+    "nombre": "Cancha Tola Chica 1",
+    "lat": -0.2083801,
+    "lng": -78.3955945,
+    "": ""
+  },
+  {
+    "nombre": "Piscina de Pifo",
+    "lat": -0.2231398,
+    "lng": -78.3349631,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Plaza del Teatro",
+    "lat": -0.2188469,
+    "lng": -78.5088435,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Montufar",
+    "lat": -0.221123,
+    "lng": -78.508558,
+    "": ""
+  },
+  {
+    "nombre": "NANEGALITO-ESTADIO",
+    "lat": 0.0604322,
+    "lng": -78.6826878,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Chilibulo",
+    "lat": -0.241936,
+    "lng": -78.546573,
+    "": ""
+  },
+  {
+    "nombre": "ESTADIO LIGA SAN JOSE COCOTOG (GARCIA MORENO Y JUAN ACERO)",
+    "lat": -0.1388697,
+    "lng": -78.4226667,
+    "": ""
+  },
+  {
+    "nombre": "INFOCENTRO - ATAHUALPA",
+    "lat": -0.1341319,
+    "lng": -78.3774723,
+    "": ""
+  },
+  {
+    "nombre": "Casa del adulto mayor CalaCali",
+    "lat": 0.0010341,
+    "lng": -78.5153065,
+    "": ""
+  },
+  {
+    "nombre": "Escalinata1",
+    "lat": -0.1084122,
+    "lng": -78.485888,
+    "": ""
+  },
+  {
+    "nombre": "Mirador de Cotocollao",
+    "lat": -0.1157984,
+    "lng": -78.4689074,
+    "": ""
+  },
+  {
+    "nombre": "San Anita",
+    "lat": 0.00764,
+    "lng": -78.468745,
+    "": ""
+  },
+  {
+    "nombre": "Pueblo nuevo",
+    "lat": -0.1177191,
+    "lng": -78.5173937,
+    "": ""
+  },
+  {
+    "nombre": "Calle F etapa 2",
+    "lat": -0.116053,
+    "lng": -78.518691,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos San Antonio de Pichincha",
+    "lat": -0.002466,
+    "lng": -78.4501679,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Cotocollao",
+    "lat": -0.1106748,
+    "lng": -78.4996276,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Carcelén Bajo",
+    "lat": -0.077213,
+    "lng": -78.462744,
+    "": ""
+  },
+  {
+    "nombre": "INTERSECCIÓN CON PASAJE E8A",
+    "lat": -0.3467939,
+    "lng": -78.4816696,
+    "": ""
+  },
+  {
+    "nombre": "SANTA ROSA",
+    "lat": -0.290764,
+    "lng": -78.499537,
+    "": ""
+  },
+  {
+    "nombre": "Parque Obrero Independiente 2",
+    "lat": -0.2501282,
+    "lng": -78.4959183,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos San Marcos",
+    "lat": -0.2250349,
+    "lng": -78.5086151,
+    "": ""
+  },
+  {
+    "nombre": "PEDESTALES 2 Y3",
+    "lat": -0.3328,
+    "lng": -78.5733,
+    "": ""
+  },
+  {
+    "nombre": "Casa barrial barrio El Calvario",
+    "lat": -0.1570423,
+    "lng": -78.3193067,
+    "": ""
+  },
+  {
+    "nombre": "LA DELICIA",
+    "lat": -0.123028,
+    "lng": -78.314167,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Tumbaco",
+    "lat": -0.2121705,
+    "lng": -78.4050046,
+    "": ""
+  },
+  {
+    "nombre": "Cancha de césped sintético. junto al cuerpo de bomberos.",
+    "lat": -0.2191685,
+    "lng": -78.3391431,
+    "": ""
+  },
+  {
+    "nombre": "VALLE VERDE",
+    "lat": -0.322734,
+    "lng": -78.5572671,
+    "": ""
+  },
+  {
+    "nombre": "BEATERIO ALTO",
+    "lat": -0.3039108,
+    "lng": -78.5311965,
+    "": ""
+  },
+  {
+    "nombre": "EL VERGEL",
+    "lat": -0.3085073,
+    "lng": -78.5290128,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS ONCE DE MAYO",
+    "lat": -0.3558,
+    "lng": -78.5394,
+    "": ""
+  },
+  {
+    "nombre": "CONDE 4",
+    "lat": -0.3246322,
+    "lng": -78.5240891,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS SAN LUIS DE CHILLOGALLO",
+    "lat": -0.2751708,
+    "lng": -78.5678624,
+    "": ""
+  },
+  {
+    "nombre": "EL GIRON",
+    "lat": -0.2912126,
+    "lng": -78.5687421,
+    "": ""
+  },
+  {
+    "nombre": "PARA UN FUTURO MEJOR 9 DE DICIEMBRE",
+    "lat": -0.2778999,
+    "lng": -78.5764917,
+    "": ""
+  },
+  {
+    "nombre": "COMITÉ PROMEJORAS BUENAVENTURA ALTA",
+    "lat": -0.2791573,
+    "lng": -78.5859142,
+    "": ""
+  },
+  {
+    "nombre": "Cancha de uso múltiple Rojas",
+    "lat": -0.2164321,
+    "lng": -78.4308483,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Lumbisí",
+    "lat": -0.2322117,
+    "lng": -78.4483517,
+    "": ""
+  },
+  {
+    "nombre": "Estadio Francisco Reinoso Cordero",
+    "lat": -0.1997312,
+    "lng": -78.4281427,
+    "": ""
+  },
+  {
+    "nombre": "Parque del Héroe",
+    "lat": -0.2182756,
+    "lng": -78.4546361,
+    "": ""
+  },
+  {
+    "nombre": "Cancha de Uso Múltiple de San Juan Bautista",
+    "lat": -0.2046899,
+    "lng": -78.4493481,
+    "": ""
+  },
+  {
+    "nombre": "Parque de Recreación Familiar Rodrigo Pallares",
+    "lat": -0.2080488,
+    "lng": -78.459753,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia de Santa Rosa (predio privado)",
+    "lat": -0.2028391,
+    "lng": -78.4392196,
+    "": ""
+  },
+  {
+    "nombre": "Casa barrial junto a la Iglesia de Barrio San José",
+    "lat": -0.164094,
+    "lng": -78.3074482,
+    "": ""
+  },
+  {
+    "nombre": "PANAMERICANA SUR EL BLANQUEADO",
+    "lat": -0.3103438,
+    "lng": -78.5395955,
+    "": ""
+  },
+  {
+    "nombre": "Cancha de césped sintético y otras áreas recreativas.",
+    "lat": -0.2303156,
+    "lng": -78.3399437,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Guápulo",
+    "lat": -0.1959617,
+    "lng": -78.4753731,
+    "": ""
+  },
+  {
+    "nombre": "NANEGALITO-PARQUE",
+    "lat": 0.0615954,
+    "lng": -78.6823498,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Pifo",
+    "lat": -0.2253634,
+    "lng": -78.3371783,
+    "": ""
+  },
+  {
+    "nombre": "Plaza Grande",
+    "lat": -0.220552,
+    "lng": -78.511897,
+    "": ""
+  },
+  {
+    "nombre": "Calle Olmedo y Benalcazar",
+    "lat": -0.217687,
+    "lng": -78.511706,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Roldós Pisulí",
+    "lat": -0.0857962,
+    "lng": -78.5102774,
+    "": ""
+  },
+  {
+    "nombre": "PLAZA SANJALOMA DE LA PARROQUIA LA MERCED QUITO",
+    "lat": -0.2957543,
+    "lng": -78.4095753,
+    "": ""
+  },
+  {
+    "nombre": "Miller y Batallón Magdalena parque",
+    "lat": -0.2283328,
+    "lng": -78.5285831,
+    "": ""
+  },
+  {
+    "nombre": "Calle C-10 y E-18. De la casa barrial vista hermosa al fondo..",
+    "lat": -0.085359,
+    "lng": -78.51496,
+    "": ""
+  },
+  {
+    "nombre": "Unión entre la calles E1A y E1B y PANZALEO. ES PARA EL PARQUE DEL BARRIO",
+    "lat": -0.3236618,
+    "lng": -78.4855416,
+    "": ""
+  },
+  {
+    "nombre": "De los muelles E3",
+    "lat": -0.0985658,
+    "lng": -78.4047,
+    "": ""
+  },
+  {
+    "nombre": "Parque Comuna La Capilla, José Miguel Guarderas, junto a la iglesia de la comunidad",
+    "lat": -0.0858684,
+    "lng": -78.4493732,
+    "": ""
+  },
+  {
+    "nombre": "Pedro Yerovi y A. Baldeón",
+    "lat": -0.0886545,
+    "lng": -78.5174105,
+    "": ""
+  },
+  {
+    "nombre": "Isla San Cristobal e Isla Puna Parque el arbolito de la Etapa E Bajo",
+    "lat": -0.0868245,
+    "lng": -78.4486931,
+    "": ""
+  },
+  {
+    "nombre": "Calle María Riofrío y Domingo segura Canchas y parque infantil",
+    "lat": -0.0734834,
+    "lng": -78.4397597,
+    "": ""
+  },
+  {
+    "nombre": "Calle María Monge 293 y Juan de Salinas",
+    "lat": -0.1065467,
+    "lng": -78.4207719,
+    "": ""
+  },
+  {
+    "nombre": "La Chorrera y Pasaje San Luis, Parque",
+    "lat": -0.2639932,
+    "lng": -78.4516811,
+    "": ""
+  },
+  {
+    "nombre": "De los eucaliptos y algarrobos en la casa comunal del barrio",
+    "lat": -0.0791153,
+    "lng": -78.4498037,
+    "": ""
+  },
+  {
+    "nombre": "Cerro del Callo y mojanda",
+    "lat": -0.0930571,
+    "lng": -78.4506807,
+    "": ""
+  },
+  {
+    "nombre": "Rio Zamora N14-190, Rio Cayambe",
+    "lat": -0.0989482,
+    "lng": -78.4218732,
+    "": ""
+  },
+  {
+    "nombre": "CALLE K Y CALLE C ATRAS DEL UPC ALMA LOJANA JUNTO A LA CASA BARRIAL",
+    "lat": -0.2342599,
+    "lng": -78.4823289,
+    "": ""
+  },
+  {
+    "nombre": "CALLE GUACHALA Y CALLE QUERO CANCHA DE USO MULTIPLE FRENTE AL JARDIN DE INFANTES LA RAYUELA",
+    "lat": -0.2296352,
+    "lng": -78.4818557,
+    "": ""
+  },
+  {
+    "nombre": "CANCHA DE FUTBOL Y PARUQE INFANTIL",
+    "lat": -0.2300262,
+    "lng": -78.5250355,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE CENTRAL DEL BARRIO CALLES HACIENDA MARIA Y CHACAUCO",
+    "lat": -0.2473893,
+    "lng": -78.4858883,
+    "": ""
+  },
+  {
+    "nombre": "De los Nisperos E9-426 y 12 de Octubre (parada de camionetas) Cuenditrans",
+    "lat": -0.3779516,
+    "lng": -78.4872853,
+    "": ""
+  },
+  {
+    "nombre": "Calle Luis Hidalgo y Juan Montalvo",
+    "lat": -0.3749817,
+    "lng": -78.5035318,
+    "": ""
+  },
+  {
+    "nombre": "Lizardo Garcia CDI Luceritos de Monserrat",
+    "lat": -0.2952902,
+    "lng": -78.5291266,
+    "": ""
+  },
+  {
+    "nombre": "Los Ríos y Concepción",
+    "lat": -0.22604,
+    "lng": -78.5058967,
+    "": ""
+  },
+  {
+    "nombre": "MORONA SANTIAGO Y PANZALEO cancha de uso multiple",
+    "lat": -0.3254924,
+    "lng": -78.4763888,
+    "": ""
+  },
+  {
+    "nombre": "Barrio Bolivar Rodríguez calle F casa S1-193 y calle C",
+    "lat": -0.2268378,
+    "lng": -78.4924518,
+    "": ""
+  },
+  {
+    "nombre": "Calle Junin E3-76 y Almeida. Plaza San Marcos",
+    "lat": -0.2248127,
+    "lng": -78.5081144,
+    "": ""
+  },
+  {
+    "nombre": "CALLE JUAN DE ARAGON S/N PSJ 2 - CASA BARRIAL",
+    "lat": -0.2276656,
+    "lng": -78.4927481,
+    "": ""
+  },
+  {
+    "nombre": "CALLE CENEPA, E16 FRENTE A LA PANADERIA DON ROLO",
+    "lat": -0.2327934,
+    "lng": -78.4907913,
+    "": ""
+  },
+  {
+    "nombre": "INICIO DE LA ESCALINATA ANTONIO SIERRA, JUNTO AL PUENTE DEL RÍO MACHANGARA",
+    "lat": -0.2182321,
+    "lng": -78.4853012,
+    "": ""
+  },
+  {
+    "nombre": "MARIA BARRETO Y CALLE C FRENTE A LA TIENDA EL SURTIDO",
+    "lat": -0.2406747,
+    "lng": -78.4816266,
+    "": ""
+  },
+  {
+    "nombre": "CARCHI Y NEW YORK, CASA BARRIAL",
+    "lat": -0.2128032,
+    "lng": -78.5104039,
+    "": ""
+  },
+  {
+    "nombre": "Sofia Gonzalez y Juan leonidas Castillo",
+    "lat": -0.1270268,
+    "lng": -78.4465974,
+    "": ""
+  },
+  {
+    "nombre": "Calle Joaquín Gallegos Calle C Via antigua a Conocoto",
+    "lat": -0.25398,
+    "lng": -78.4939,
+    "": ""
+  },
+  {
+    "nombre": "Clemente Pulupa y García Moreno",
+    "lat": -0.1282027,
+    "lng": -78.4167386,
+    "": ""
+  },
+  {
+    "nombre": "Av. 5 de Junio y Tejada/ Casa Comunal - lavanderías",
+    "lat": -0.230664,
+    "lng": -78.5154478,
+    "": ""
+  },
+  {
+    "nombre": "Plaza Civica de Carapungo",
+    "lat": -0.1002757,
+    "lng": -78.4237699,
+    "": ""
+  },
+  {
+    "nombre": "Quito Norte, calle José Mora N60-56 y Flavio Alfaro",
+    "lat": -0.1257296,
+    "lng": -78.4977079,
+    "": ""
+  },
+  {
+    "nombre": "Parque Cumaná, Pedro Freile y Flavio Alfaro",
+    "lat": -0.1236201,
+    "lng": -78.4961459,
+    "": ""
+  },
+  {
+    "nombre": "MACHALA Y BARTOME RUIZ, CANCHA SINTÉTICA LIGA QUITO NORTE",
+    "lat": -0.125861,
+    "lng": -78.498392,
+    "": ""
+  },
+  {
+    "nombre": "Quitus y 9 de agosto",
+    "lat": -0.1005112,
+    "lng": -78.4231902,
+    "": ""
+  },
+  {
+    "nombre": "CA N1 7C OE12-42 SMZFMZ11C5",
+    "lat": -0.1146056,
+    "lng": -78.4129802,
+    "": ""
+  },
+  {
+    "nombre": "Cancha recuperada por el.comite de.seguridad calle N80 a lado farmacia.Heidy",
+    "lat": -0.0945602,
+    "lng": -78.5047198,
+    "": ""
+  },
+  {
+    "nombre": "Galo plaza lasso y santa ana frente al parque sideral",
+    "lat": -0.0884992,
+    "lng": -78.4487614,
+    "": ""
+  },
+  {
+    "nombre": "Bellavista de Calderón, calle pío XII y Roma pasaje estocolmo, el parque dentro del pasaje",
+    "lat": -0.0596512,
+    "lng": -78.4172567,
+    "": ""
+  },
+  {
+    "nombre": "Avenida la bota y Luis Gómez de la torre frente al mercado de la bota",
+    "lat": -0.1168119,
+    "lng": -78.4579612,
+    "": ""
+  },
+  {
+    "nombre": "Calle Los linares y 23 de abril ( iglesia del Carmen 1)",
+    "lat": -0.0960835,
+    "lng": -78.451441,
+    "": ""
+  },
+  {
+    "nombre": "SAN ANTONIO DE PICHINCHA, 13 DE JUNIO Y REINA DE QUITO, PARQUE LA Y",
+    "lat": 0.0000244,
+    "lng": -78.4426388,
+    "": ""
+  },
+  {
+    "nombre": "Panamericana Norte y Calle Atahulpa Puente 1",
+    "lat": -0.1170233,
+    "lng": -78.4512583,
+    "": ""
+  },
+  {
+    "nombre": "Sauces del Valle calle B S7-306 y calle D diagonal a la Casa Barrial",
+    "lat": -0.2539211,
+    "lng": -78.4906512,
+    "": ""
+  },
+  {
+    "nombre": "Calle Pedro Briceño entre Guayaquil y Vargas",
+    "lat": -0.2156037,
+    "lng": -78.5055174,
+    "": ""
+  },
+  {
+    "nombre": "SEÑOR DE LA BUENA ESPERANZA",
+    "lat": -0.3038126,
+    "lng": -78.5327235,
+    "": ""
+  },
+  {
+    "nombre": "SAN JOSE DE GUAMANI",
+    "lat": -0.3302117,
+    "lng": -78.54673,
+    "": ""
+  },
+  {
+    "nombre": "EL ROSAL",
+    "lat": -0.3555,
+    "lng": -78.537611,
+    "": ""
+  },
+  {
+    "nombre": "VECEREMOS 1",
+    "lat": -0.3185549,
+    "lng": -78.5361797,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Cochapamba",
+    "lat": -0.158515,
+    "lng": -78.5041617,
+    "": ""
+  },
+  {
+    "nombre": "BARRIO LA VICENTINA CALLE ANAGOYTIA N18-146 Y PJE ANGOSTURA",
+    "lat": -0.2161313,
+    "lng": -78.4861046,
+    "": ""
+  },
+  {
+    "nombre": "MALDONADO Y BORRERO/ JUNTO AL UPC",
+    "lat": -0.2290408,
+    "lng": -78.512737,
+    "": ""
+  },
+  {
+    "nombre": "Lizardo García y Baquerizo Moreno. Parque",
+    "lat": -0.0894,
+    "lng": -78.4508,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO CUMBAYA",
+    "lat": -0.2010547,
+    "lng": -78.438064,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Solanda",
+    "lat": -0.268341,
+    "lng": -78.543771,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia-Guamani 1",
+    "lat": -0.3398073,
+    "lng": -78.5494612,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE SAUSALITO",
+    "lat": -0.3045997,
+    "lng": -78.4857558,
+    "": ""
+  },
+  {
+    "nombre": "COMPLEJO DEPORTIVO SANTA ROSA",
+    "lat": -0.3804476,
+    "lng": -78.4816111,
+    "": ""
+  },
+  {
+    "nombre": "Canchas deportivas Centro de Salud",
+    "lat": -0.2732967,
+    "lng": -78.5185073,
+    "": ""
+  },
+  {
+    "nombre": "Calle Giovanni Calles Lascano y Alejandro Cárdenas esquina (casa comunal)",
+    "lat": -0.239903,
+    "lng": -78.4878293,
+    "": ""
+  },
+  {
+    "nombre": "José Ordóñez y Diamante",
+    "lat": -0.0841015,
+    "lng": -78.4746611,
+    "": ""
+  },
+  {
+    "nombre": "N83 Calle Oe13 y Calle Oe12D un parque recién construido por el centro médico santa hildegarda",
+    "lat": -0.0831294,
+    "lng": -78.5106341,
+    "": ""
+  },
+  {
+    "nombre": "Áreas comunales de Jarrin alto, ubicado en la calle Bernardo de Legarda y Malearte esquina",
+    "lat": -0.1186,
+    "lng": -78.5044,
+    "": ""
+  },
+  {
+    "nombre": "Cuchara N69A y Puruhanta, en el parque infantil y las canchas de boley y fútbol San Rafael",
+    "lat": -0.1129976,
+    "lng": -78.5053411,
+    "": ""
+  },
+  {
+    "nombre": "Parque del barrio 23 de junio, calle Emilio Bustamante y Pedro de Ibarra",
+    "lat": -0.1071155,
+    "lng": -78.4985769,
+    "": ""
+  },
+  {
+    "nombre": "calle Gonzalo Arboleda y 7 de mayo junto al sub centro de salud Puengasi 2",
+    "lat": -0.2561914,
+    "lng": -78.4917926,
+    "": ""
+  },
+  {
+    "nombre": "Calle N76A Oe16",
+    "lat": -0.098972,
+    "lng": -78.515922,
+    "": ""
+  },
+  {
+    "nombre": "Santa Teresa y E5 - Coliseo de Pomasqui",
+    "lat": -0.0515756,
+    "lng": -78.4526347,
+    "": ""
+  },
+  {
+    "nombre": "PATAGONIA Y MILLES JUNTO AL UPC DE LA PATAGONIA",
+    "lat": -0.2306853,
+    "lng": -78.5224118,
+    "": ""
+  },
+  {
+    "nombre": "Calle Twintza y Pasaje G",
+    "lat": -0.004535,
+    "lng": -78.4481871,
+    "": ""
+  },
+  {
+    "nombre": "Parque, al inicio de la calle B22 - O Calle 8",
+    "lat": -0.0951867,
+    "lng": -78.5089073,
+    "": ""
+  },
+  {
+    "nombre": "JUAN SOTO N5-62 y JUAN DE OBANDO MIRADOR GRADAS PARA BAJAR AL BARRIO EL PLACER",
+    "lat": -0.2127997,
+    "lng": -78.5222131,
+    "": ""
+  },
+  {
+    "nombre": "Carlos Polit y Manuel Orozco Casa comunal",
+    "lat": -0.2280534,
+    "lng": -78.4841196,
+    "": ""
+  },
+  {
+    "nombre": "San Rodrigo y Antonio Sierra, cancha de voley",
+    "lat": -0.2214046,
+    "lng": -78.4844925,
+    "": ""
+  },
+  {
+    "nombre": "Calle a lote 28",
+    "lat": -0.0709528,
+    "lng": -78.4376382,
+    "": ""
+  },
+  {
+    "nombre": "N69l y julio Ramos",
+    "lat": -0.1105492,
+    "lng": -78.4605586,
+    "": ""
+  },
+  {
+    "nombre": "Diego Vaca De la Vega y Santa Teresa",
+    "lat": -0.1075167,
+    "lng": -78.5004783,
+    "": ""
+  },
+  {
+    "nombre": "Av.Juan Pio Montúfar y Manuela Saenz junto a la Mz18",
+    "lat": -0.063093,
+    "lng": -78.4529775,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Quito Sur",
+    "lat": -0.284136,
+    "lng": -78.544395,
+    "": ""
+  },
+  {
+    "nombre": "Av. José Enríquez Guerrero - Colegio Rumania",
+    "lat": -0.0862674,
+    "lng": -78.4712809,
+    "": ""
+  },
+  {
+    "nombre": "John. F Kennedy",
+    "lat": -0.1868492,
+    "lng": -78.4805856,
+    "": ""
+  },
+  {
+    "nombre": "Beatriz Coquilango entre la A y la B Las Violetas",
+    "lat": -0.0114926,
+    "lng": -78.4387803,
+    "": ""
+  },
+  {
+    "nombre": "Barrio Doris de Mantilla del comun pasando el estadio al final del adoquinado ..en el parque recreacional de juegos infantiles y cancha multiple",
+    "lat": -0.0961547,
+    "lng": -78.4025141,
+    "": ""
+  },
+  {
+    "nombre": "De los pensamientos y De las Almendras, Área verde N°5",
+    "lat": -0.113378,
+    "lng": -78.465732,
+    "": ""
+  },
+  {
+    "nombre": "Rosa Campusano y Camilo Guachamin",
+    "lat": -0.1033,
+    "lng": -78.4869,
+    "": ""
+  },
+  {
+    "nombre": "Ulpiano Becerra, cancha del barrio frente a la Cruz Roja",
+    "lat": -0.1232,
+    "lng": -78.4589,
+    "": ""
+  },
+  {
+    "nombre": "Calle: Esteban Mosquera en la parte superior del conjunto Alba azul 2.",
+    "lat": -0.2653921,
+    "lng": -78.5012284,
+    "": ""
+  },
+  {
+    "nombre": "PALTAS 56-25 Y PEDRO MON, CASA BARRIAL",
+    "lat": -0.2247531,
+    "lng": -78.524632,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE LINEAL SECTOR QUEBRADA EL CONEJO FRENTE A LA CALLE JOSE DE INES, SECTOR CUCHARA Y CALLE BERNARDO DAVALOS",
+    "lat": -0.2538169,
+    "lng": -78.4978828,
+    "": ""
+  },
+  {
+    "nombre": "S3H Y E18E CANCHA MULTIPLE DE PATRRIMONIO FAMILIAR #3 FRENTE AL UPC",
+    "lat": -0.234345,
+    "lng": -78.489467,
+    "": ""
+  },
+  {
+    "nombre": "Parque lineal , diagonal a Cruz roja de Calderón",
+    "lat": -0.1389335,
+    "lng": -78.4389872,
+    "": ""
+  },
+  {
+    "nombre": "Calle ambar y Turmalina parque principal cubierta cancha",
+    "lat": -0.0786233,
+    "lng": -78.4724867,
+    "": ""
+  },
+  {
+    "nombre": "Baños y Gonzalo de la Vega diagonal a la escuela San José",
+    "lat": -0.2131457,
+    "lng": -78.5189436,
+    "": ""
+  },
+  {
+    "nombre": "DE LOS EUCALIPTOS, PARQUE PARADA AGUA CLARA",
+    "lat": -0.1112032,
+    "lng": -78.4888076,
+    "": ""
+  },
+  {
+    "nombre": "Gral. Eloy Alfaro y Benjamin Carrión Iglesia y canchas del Barrio",
+    "lat": -0.209349,
+    "lng": -78.457204,
+    "": ""
+  },
+  {
+    "nombre": "Cumbayá Calle Santa Inés y Calle Mora Estadio del barrio Santa Inés",
+    "lat": -0.197238,
+    "lng": -78.422824,
+    "": ""
+  },
+  {
+    "nombre": "CALLE S43A ( S44) Y OE10F",
+    "lat": -0.30802302,
+    "lng": -78.571613,
+    "": ""
+  },
+  {
+    "nombre": "TERRANOVA OE3C. CANCHA DEL BARRIO",
+    "lat": -0.3021376,
+    "lng": -78.5528341,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL. E4 Y S36A A UNA CUADRA DE LA IGLESIA SAN JOSE OBRERO",
+    "lat": -0.3008,
+    "lng": -78.5356,
+    "": ""
+  },
+  {
+    "nombre": "PABLO GUEVARA Y ANTONIO SIERRA",
+    "lat": -0.2174301,
+    "lng": -78.4852752,
+    "": ""
+  },
+  {
+    "nombre": "NATALIA VELA N18-36 ENTRE JOSE TOBAR Y CESAR ARROYO",
+    "lat": -0.2193314,
+    "lng": -78.4846652,
+    "": ""
+  },
+  {
+    "nombre": "EL PINAR Y JUAN CAMACHO COMITE BARRIAL PRO MEJORAS \"EL PINAR BAJO",
+    "lat": -0.2054575,
+    "lng": -78.5246768,
+    "": ""
+  },
+  {
+    "nombre": "AbdónCalderóny hermano Miguel",
+    "lat": -0.3184791,
+    "lng": -78.4850341,
+    "": ""
+  },
+  {
+    "nombre": "junto al culebrero",
+    "lat": -0.2213429,
+    "lng": -78.4852487,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central el Tingo",
+    "lat": -0.2856736,
+    "lng": -78.4417753,
+    "": ""
+  },
+  {
+    "nombre": "Payq",
+    "lat": -0.0895331,
+    "lng": -78.4680339,
+    "": ""
+  },
+  {
+    "nombre": "E11 PAUL RIVET Y WHYMPER",
+    "lat": -0.1947251,
+    "lng": -78.481158,
+    "": ""
+  },
+  {
+    "nombre": "Calle Andalucía y Mena Caamaño",
+    "lat": -0.20943,
+    "lng": -78.488001,
+    "": ""
+  },
+  {
+    "nombre": "General Duma N45-42 y de las Alondras",
+    "lat": -0.1620228,
+    "lng": -78.4915905,
+    "": ""
+  },
+  {
+    "nombre": "Calle teresa flor y pasaje h casa barrial san lorenzo",
+    "lat": -0.1488096,
+    "lng": -78.5078157,
+    "": ""
+  },
+  {
+    "nombre": "Parque central de la Rumiñahui alta junto al UPC",
+    "lat": -0.1260331,
+    "lng": -78.4856233,
+    "": ""
+  },
+  {
+    "nombre": "Carlos Bustamante y Leonardo Murialdo",
+    "lat": -0.1339882,
+    "lng": -78.4769859,
+    "": ""
+  },
+  {
+    "nombre": "Eso si está. Cerbellón Urbina N57-87 y Mariano Bustamante. URB. CARLOS ANDRADE MARIN",
+    "lat": -0.1325257,
+    "lng": -78.4784145,
+    "": ""
+  },
+  {
+    "nombre": "Escuela Union Sovietica",
+    "lat": -0.159478,
+    "lng": -78.504086,
+    "": ""
+  },
+  {
+    "nombre": "bulevar del barrio San Pedro de Inchapicho. callesEugenio Espejoy Eucaliptos",
+    "lat": -0.1713668,
+    "lng": -78.4412788,
+    "": ""
+  },
+  {
+    "nombre": "Julio Ramos y pasaje N69f parque con cancha",
+    "lat": -0.1123183,
+    "lng": -78.4601483,
+    "": ""
+  },
+  {
+    "nombre": "26 de agosto N60B Barrio Occidental el bosque",
+    "lat": -0.1252061,
+    "lng": -78.5066469,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia del Barrio La Pulida. calle Paula Montal y Jorge Piedra Esquina",
+    "lat": -0.1403981,
+    "lng": -78.5074396,
+    "": ""
+  },
+  {
+    "nombre": "De los tulipanes e10260",
+    "lat": -0.160112,
+    "lng": -78.4738472,
+    "": ""
+  },
+  {
+    "nombre": "DE LOS NOGALES Y DE LOS OLIVOS AL FRENTE DE LA IGLESIA ANTIGUA DE SAN ISIDRO DEL INCA EN LA PARADA DE BUS",
+    "lat": -0.1484032,
+    "lng": -78.466475,
+    "": ""
+  },
+  {
+    "nombre": "De Los Nogales y Chigualcanes. Al frente de la panaderia Alexandra",
+    "lat": -0.145859,
+    "lng": -78.463615,
+    "": ""
+  },
+  {
+    "nombre": "General Urdaneta y pusir al lado del parque diagonal al Upc",
+    "lat": -0.2693483,
+    "lng": -78.5293217,
+    "": ""
+  },
+  {
+    "nombre": "casa barrial barrio 14 de enero",
+    "lat": -0.2597929,
+    "lng": -78.5404153,
+    "": ""
+  },
+  {
+    "nombre": "Calle Profeta Miqueas y Apóstol Andres cancha del Barrio La Garzota",
+    "lat": -0.2685073,
+    "lng": -78.5619849,
+    "": ""
+  },
+  {
+    "nombre": "Calle La Tolita N26-342",
+    "lat": -0.2046,
+    "lng": -78.4761,
+    "": ""
+  },
+  {
+    "nombre": "Isaac Barrera y Atahualpa",
+    "lat": -0.141685,
+    "lng": -78.4430434,
+    "": ""
+  },
+  {
+    "nombre": "BARRIO SANTA ISABEL ANTIGUO CALLE PRINCESA QUILAGO Y SINCHI ROCA.JUNTO AL UPC",
+    "lat": -0.3403905,
+    "lng": -78.4780535,
+    "": ""
+  },
+  {
+    "nombre": "Edén del valle E20D S4 225 S4J puente amarillo antes del peaje vía al valle de los Chillos Parroquia Puengasi",
+    "lat": -0.2416082,
+    "lng": -78.4852156,
+    "": ""
+  },
+  {
+    "nombre": "De los Nisperos y 12 de Octubre (parada de Camionetas Cuenditrans)",
+    "lat": -0.377577,
+    "lng": -78.4881912,
+    "": ""
+  },
+  {
+    "nombre": "Serapio Japerabi y Juan Camacaro",
+    "lat": -0.2612716,
+    "lng": -78.5233603,
+    "": ""
+  },
+  {
+    "nombre": "ESCUELA ARMADA NACIONAL",
+    "lat": -0.2266,
+    "lng": -78.5301,
+    "": ""
+  },
+  {
+    "nombre": "San Mateo y Andromeda",
+    "lat": -0.196734,
+    "lng": -78.323702,
+    "": ""
+  },
+  {
+    "nombre": "Calle Profeta Ageo y OE12G. cancha de volly y un parque con llantas de colores. justo en la parada del Corredor Sur Occidental R9",
+    "lat": -0.2730195,
+    "lng": -78.5643195,
+    "": ""
+  },
+  {
+    "nombre": "calle Carlos Larrea .S 37 C parque antes de llegar al mercado",
+    "lat": -0.2936041,
+    "lng": -78.5629957,
+    "": ""
+  },
+  {
+    "nombre": "Sub Centro de salud Calle. Simón Bolivar Interserccion calle Quito",
+    "lat": -0.2572702,
+    "lng": -78.4511296,
+    "": ""
+  },
+  {
+    "nombre": "Eugenio Espejoy juan montalvo",
+    "lat": -0.3080496,
+    "lng": -78.4150933,
+    "": ""
+  },
+  {
+    "nombre": "Carlos Bustamante Pérez y Sebastián de Benalcazar sector Cornejo Alto",
+    "lat": -0.259376,
+    "lng": -78.465645,
+    "": ""
+  },
+  {
+    "nombre": "Agustín segarra y pedro cornelio",
+    "lat": -0.1363772,
+    "lng": -78.4790177,
+    "": ""
+  },
+  {
+    "nombre": "Pasaje Abel gallegos y Diaz de la Madrid",
+    "lat": -0.1838389,
+    "lng": -78.5097994,
+    "": ""
+  },
+  {
+    "nombre": "Manuel Serrano y La Florida (canchas)",
+    "lat": -0.1435383,
+    "lng": -78.4942767,
+    "": ""
+  },
+  {
+    "nombre": "Jose Borja y Joaquin Castro",
+    "lat": -0.1181198,
+    "lng": -78.4637242,
+    "": ""
+  },
+  {
+    "nombre": "Barrio Santa Ana. calles Miller y Leonidas Batalla frente al UPC Santa Ana",
+    "lat": -0.2378788,
+    "lng": -78.5204118,
+    "": ""
+  },
+  {
+    "nombre": "Av. Pedro Vicente Maldonado y Pujili - Parque de las Diversidades",
+    "lat": -0.2612716,
+    "lng": -78.5233603,
+    "": ""
+  },
+  {
+    "nombre": "Santa María Encarnación entre Oe11B y Oe11A",
+    "lat": -0.2701366,
+    "lng": -78.5587905,
+    "": ""
+  },
+  {
+    "nombre": "Turubamba Alto s26g y O3g en el Centro Cultural Turubamba",
+    "lat": -0.2771508,
+    "lng": -78.544438,
+    "": ""
+  },
+  {
+    "nombre": "Av. Juan Bautista Aguirre y Ana Paredes de Alfaro",
+    "lat": -0.2473725,
+    "lng": -78.5072611,
+    "": ""
+  },
+  {
+    "nombre": "Ajavi E Ignacio Arteta Pasaje S16B",
+    "lat": -0.2673982,
+    "lng": -78.5348275,
+    "": ""
+  },
+  {
+    "nombre": "Ignacio Arteta S16-60 y Av. Ajaví dos cuadras antes de salir a la Av. Tnte Hugo Ortiz",
+    "lat": -0.2677498,
+    "lng": -78.5351725,
+    "": ""
+  },
+  {
+    "nombre": "Manuel maría Recalde y dolores cacuango",
+    "lat": -0.2730687,
+    "lng": -78.5029051,
+    "": ""
+  },
+  {
+    "nombre": "Calles Gonzales Suarez y Gabriel Garcia Moreno. cuatro esquinas",
+    "lat": -0.3687039,
+    "lng": -78.5022537,
+    "": ""
+  },
+  {
+    "nombre": "Av. Principal Santa Isabel. calle los geranios. calle las rosas. calle los girasoles. calle las violetas. calle los tulipanes",
+    "lat": -0.3340415,
+    "lng": -78.4824658,
+    "": ""
+  },
+  {
+    "nombre": "Calle general PINTAG y antizana cruz de VERDEPAMBA",
+    "lat": -0.2141322,
+    "lng": -78.5009355,
+    "": ""
+  },
+  {
+    "nombre": "Oe6 y calle S16 C frente casa comunal",
+    "lat": -0.2582402,
+    "lng": -78.5427594,
+    "": ""
+  },
+  {
+    "nombre": "S26 y E4 sede del centro cultural Kawsarina a dos cuadras del subcentro de salud",
+    "lat": -0.2854101,
+    "lng": -78.532287,
+    "": ""
+  },
+  {
+    "nombre": "Cbo. Alberto Orellana S11-72 y Av. Cap. Cosme Osorio",
+    "lat": -0.2492686,
+    "lng": -78.5336508,
+    "": ""
+  },
+  {
+    "nombre": "Avenida José Enríquez Guerrero y Juan de la merced. colegios Rumania y ligdano chavez",
+    "lat": -0.0862416,
+    "lng": -78.4681451,
+    "": ""
+  },
+  {
+    "nombre": "ESCUIELA 24 DE MAYO GUALO, CALLES GARCIA MORENO Y 17 DE SEPTIEMBRE",
+    "lat": -0.094744,
+    "lng": -78.4523977,
+    "": ""
+  },
+  {
+    "nombre": "Pasaje \"D\" (casa comunal) y Av. Abdon Calderon",
+    "lat": -0.3395059,
+    "lng": -78.4881007,
+    "": ""
+  },
+  {
+    "nombre": "Cancha de basquet Las Cuadras. Al frente del restaurante Las Cuadras Fast Food",
+    "lat": -0.2779388,
+    "lng": -78.5495319,
+    "": ""
+  },
+  {
+    "nombre": "Enrique Garces y Luis A Valencia",
+    "lat": -0.273,
+    "lng": -78.5301,
+    "": ""
+  },
+  {
+    "nombre": "Luciano Coral y Alcantarillas esquina. Allí está el parque del barrio",
+    "lat": -2404,
+    "lng": -78.5431,
+    "": ""
+  },
+  {
+    "nombre": "Canchas Nuevas del Barrio La Florencia. calle Oe2E y calle S60D.le",
+    "lat": -0.3476109,
+    "lng": -78.5527859,
+    "": ""
+  },
+  {
+    "nombre": "S37 y línea ferrea. UPC CONFITECA. parque de la coop.UFO",
+    "lat": -0.300928,
+    "lng": -78.5527859,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia Virgen del Cisne.Escuela Camilo Gallegos",
+    "lat": -0.2664982,
+    "lng": -78.5585306,
+    "": ""
+  },
+  {
+    "nombre": "MERCADO LAS CUADRAS ( Academia Traversari)",
+    "lat": -0.2809054,
+    "lng": -78.5570594,
+    "": ""
+  },
+  {
+    "nombre": "24 de Junio y Fernando Ortiz. Casa Comunal.",
+    "lat": -0.0554813,
+    "lng": -78.4289243,
+    "": ""
+  },
+  {
+    "nombre": "Los Nogales y Granados. Casa Comunal",
+    "lat": -0.0554813,
+    "lng": -78.4289243,
+    "": ""
+  },
+  {
+    "nombre": "Casa Barrial. Liga deportiva",
+    "lat": -0.2854654,
+    "lng": -78.5397318,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 2: SANTIAGO ROSERO",
+    "lat": -0.1884708,
+    "lng": -78.4719169,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 4: ELSA TALLANA",
+    "lat": -0.1892832,
+    "lng": -78.4710912,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 9: CRISTIAN SIMBAÑA",
+    "lat": -0.1901783,
+    "lng": -78.4714519,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 10: PATRICIO GARCIA",
+    "lat": -0.191125,
+    "lng": -78.47095,
+    "": ""
+  },
+  {
+    "nombre": "BELLAVISTA 12: JIMENA REA",
+    "lat": -0.1914771,
+    "lng": -78.4718974,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Ecovia Marin Central",
+    "lat": -0.2219004,
+    "lng": -78.5085814,
+    "": ""
+  },
+  {
+    "nombre": "Yaku Museo del agua",
+    "lat": -0.2174418,
+    "lng": -78.5192406,
+    "": ""
+  },
+  {
+    "nombre": "Parque todos unidos",
+    "lat": -0.2462084,
+    "lng": -78.4913113,
+    "": ""
+  },
+  {
+    "nombre": "Parque Julio Andrade",
+    "lat": -0.2021358,
+    "lng": -78.4961244,
+    "": ""
+  },
+  {
+    "nombre": "DMQ-Trole Recoleta Norte",
+    "lat": -0.2302851,
+    "lng": -78.5126318,
+    "": ""
+  },
+  {
+    "nombre": "San Juan",
+    "lat": -0.2153418,
+    "lng": -78.5156594,
+    "": ""
+  },
+  {
+    "nombre": "San Roque 1",
+    "lat": -0.2184487,
+    "lng": -78.522117,
+    "": ""
+  },
+  {
+    "nombre": "Parque Julio Matovelle",
+    "lat": -0.2136587,
+    "lng": -78.5080518,
+    "": ""
+  },
+  {
+    "nombre": "PAdre Luis Vacarri y Río Cayambe. Plaza Civica",
+    "lat": -0.0961016,
+    "lng": -78.4528245,
+    "": ""
+  },
+  {
+    "nombre": "17 de Septiembre y Helio Humberto hinojosa. Parque Central",
+    "lat": -0.1271143,
+    "lng": -78.4441687,
+    "": ""
+  },
+  {
+    "nombre": "Plaza República",
+    "lat": -0.2136181,
+    "lng": -78.503299,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central de Tumbaco",
+    "lat": -0.213611,
+    "lng": -78.413919,
+    "": ""
+  },
+  {
+    "nombre": "Parque San Pedro de Amaguaña",
+    "lat": -0.3756002,
+    "lng": -78.5064577,
+    "": ""
+  },
+  {
+    "nombre": "Parque Central Cumbayá",
+    "lat": -0.201334045,
+    "lng": -78.429091,
+    "": ""
+  },
+  {
+    "nombre": "Parque Centra de Pifo",
+    "lat": -0.225573,
+    "lng": -78.338473,
+    "": ""
+  },
+  {
+    "nombre": "ELOY ALFARO",
+    "lat": -0.2401443,
+    "lng": -78.5181136,
+    "": ""
+  },
+  {
+    "nombre": "Velasco Ibarra y Calle A. Cancha de voley",
+    "lat": -0.1260592,
+    "lng": -78.4521018,
+    "": ""
+  },
+  {
+    "nombre": "24 de Junio y pasaje Isidro Labrador. Casa Comunal",
+    "lat": -0.0563703,
+    "lng": -78.428076,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Alangasí",
+    "lat": -0.3087477,
+    "lng": -78.4158858,
+    "": ""
+  },
+  {
+    "nombre": "Av Velasco Ibarra y Olivos. Conjuntos Carmen Amelia",
+    "lat": -0.1276647,
+    "lng": -78.4557634,
+    "": ""
+  },
+  {
+    "nombre": "Plaza el consuelo",
+    "lat": -0.2173143,
+    "lng": -78.4986882,
+    "": ""
+  },
+  {
+    "nombre": "Parque La Vicentina",
+    "lat": -0.216696,
+    "lng": -78.4890692,
+    "": ""
+  },
+  {
+    "nombre": "Manuel Miria Borrero y Velasco Ibarra Casa barrial junto a la Iglesia",
+    "lat": -0.303487,
+    "lng": -78.4331357,
+    "": ""
+  },
+  {
+    "nombre": "Leonidas Puebla y Lucila Cabezas (Parque Central de Marianas)",
+    "lat": -0.0828101,
+    "lng": -78.418624,
+    "": ""
+  },
+  {
+    "nombre": "Calixto Muzo S6-571 Estadio Atahualpa",
+    "lat": -0.1216616,
+    "lng": -78.414835,
+    "": ""
+  },
+  {
+    "nombre": "Iglesias de Chimbacalle. Colegio Quito. 6 de Diciembre y Amt.",
+    "lat": -0.2381493,
+    "lng": -78.5161501,
+    "": ""
+  },
+  {
+    "nombre": "Bonanza y Miguel Guarderas. Casa Comunal",
+    "lat": -0.1055709,
+    "lng": -78.4200653,
+    "": ""
+  },
+  {
+    "nombre": "Centro Femenino Ferroviaria Alta",
+    "lat": -0.2631217,
+    "lng": -78.5171474,
+    "": ""
+  },
+  {
+    "nombre": "Iglesias de Chimbacalle. Amt.",
+    "lat": -0.2401687,
+    "lng": -78.5144181,
+    "": ""
+  },
+  {
+    "nombre": "Parque. calle S59 y Av.Maldonado a dos cuadras al sur del terminal ecovia Guamaní",
+    "lat": -0.34208,
+    "lng": -78.549158,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL VALLE DEL SUR. E4 Y S36A A UNA CUADRA DE LA IGLESIA SAN JOSE OBRERO DE VALLE DEL SUR",
+    "lat": -0.3009,
+    "lng": -78.5351,
+    "": ""
+  },
+  {
+    "nombre": "CALLE JUAN CAMACHO Y LIBERTADORES",
+    "lat": -0.206485,
+    "lng": -78.5254101,
+    "": ""
+  },
+  {
+    "nombre": "Letamendi y Río Cinto â€œCasa Barrial y UPC",
+    "lat": -0.2266617,
+    "lng": -78.53165,
+    "": ""
+  },
+  {
+    "nombre": "CARLOS POLIT Y MANUEL OROZCO JUNTO A LA PLAZOLETA EN LA PARADA DE BUSES",
+    "lat": -0.2281682,
+    "lng": -78.4835598,
+    "": ""
+  },
+  {
+    "nombre": "Hidalgo de Pinto. parque Quito Tenis junto a la UPC",
+    "lat": -0.1624733,
+    "lng": -78.493733,
+    "": ""
+  },
+  {
+    "nombre": "O Calle 7D - Proyecto Ex Quito Cables",
+    "lat": -0.0958285,
+    "lng": -78.5079015,
+    "": ""
+  },
+  {
+    "nombre": "Calle Guachala y Calle Quero. espacio público. parque con cancha de basket.",
+    "lat": -0.2292549,
+    "lng": -78.4814822,
+    "": ""
+  },
+  {
+    "nombre": "Barrio matilde alvarez. calle 6 y Av. Pedro Vicente Maldonado. Alado del centro educativo \"Matilde Álvarez",
+    "lat": -0.3417214,
+    "lng": -78.5490593,
+    "": ""
+  },
+  {
+    "nombre": "Enriqueta Aymer y Pasaje Carlos Mora",
+    "lat": -0.1820032,
+    "lng": -78.515985,
+    "": ""
+  },
+  {
+    "nombre": "Manuel maría Recalde y dolores cacuango",
+    "lat": -0.2734749,
+    "lng": -78.5030854,
+    "": ""
+  },
+  {
+    "nombre": "LIGA SAN VICENTE DE LA FLORIDA",
+    "lat": -0.125993,
+    "lng": -78.4855643,
+    "": ""
+  },
+  {
+    "nombre": "CALACALI-PARQUE CARLOTA JARAMILLO",
+    "lat": -0.0014634,
+    "lng": -78.5138529,
+    "": ""
+  },
+  {
+    "nombre": "Lat: -0.096136 Long: -78.402365",
+    "lat": -0.0959309,
+    "lng": -78.4030771,
+    "": ""
+  },
+  {
+    "nombre": "CENTRAL",
+    "lat": -0.148559467,
+    "lng": -78.442007,
+    "": ""
+  },
+  {
+    "nombre": "CASA COMUNAL (INGRESO AREA COMUNAL)",
+    "lat": -0.1396130549,
+    "lng": -78.42590785,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE SAUSALITO",
+    "lat": -0.3041563,
+    "lng": -78.485649,
+    "": ""
+  },
+  {
+    "nombre": "Bellavista deCalderón. calle pío XII y Roma pasaje estocolmo. el parque dentro del pasaje",
+    "lat": -0.0595054,
+    "lng": -78.4179385,
+    "": ""
+  },
+  {
+    "nombre": "CASA BARRIAL \" COMITE PROMEJORAS BARRIO UNION GEOGRAFICA",
+    "lat": -0.2885568,
+    "lng": -78.475215,
+    "": ""
+  },
+  {
+    "nombre": "Parque Sucre",
+    "lat": -0.2176627,
+    "lng": -78.500765,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos Chillogallo",
+    "lat": -0.2759527,
+    "lng": -78.5532018,
+    "": ""
+  },
+  {
+    "nombre": "Casa Somos CEDOC Guamaní",
+    "lat": -0.3412023,
+    "lng": -78.5598849,
+    "": ""
+  },
+  {
+    "nombre": "BERNARDO LEÓN. JUAN DÍAZ . DIEGO DE MORA Y HERNANDO SARMIENTO. COMPLEJO RECREACIONAL DEL BARRIO.",
+    "lat": -0.12887,
+    "lng": -78.50356,
+    "": ""
+  },
+  {
+    "nombre": "Centro de salud Lucha de Los Pobres y Centro Infantil Fuente de vida",
+    "lat": -0.2782775,
+    "lng": -78.5220122,
+    "": ""
+  },
+  {
+    "nombre": "Unidad Educativa Pérez Pallarez. Colegio FESVIP. Comisariato Santa María",
+    "lat": -0.2430318,
+    "lng": -78.5163223,
+    "": ""
+  },
+  {
+    "nombre": "E4 Y S36A CASA BARRIAL VALLE DEL SUR",
+    "lat": -0.3005373,
+    "lng": -78.5354308,
+    "": ""
+  },
+  {
+    "nombre": "Barrio colectivo",
+    "lat": -0.1214988,
+    "lng": -78.518186,
+    "": ""
+  },
+  {
+    "nombre": "BICENTENARIO",
+    "lat": -0.061605,
+    "lng": -78.452915,
+    "": ""
+  },
+  {
+    "nombre": "La Comuna",
+    "lat": -0.180905,
+    "lng": -78.51486,
+    "": ""
+  },
+  {
+    "nombre": "Punin y 9 de agosto",
+    "lat": -0.0985855,
+    "lng": -78.4224733,
+    "": ""
+  },
+  {
+    "nombre": "Patio de comidas El Guambra",
+    "lat": -0.205846,
+    "lng": -78.499542,
+    "": ""
+  },
+  {
+    "nombre": "12 de octubre",
+    "lat": -0.208013,
+    "lng": -78.490239,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE CENTRAL DE PÍNTAG",
+    "lat": -0.3711032,
+    "lng": -78.3755206,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE DE LA ENTRADA DE LA CALLE ALEJANDRO GALARZA",
+    "lat": -0.2664502,
+    "lng": -78.4999347,
+    "": ""
+  },
+  {
+    "nombre": "SAN JOSE . 1 PUNTO",
+    "lat": -0.3301281,
+    "lng": -78.5473083,
+    "": ""
+  },
+  {
+    "nombre": "Nogales y calle Moisés. Iglesia",
+    "lat": -0.1379783,
+    "lng": -78.4266045,
+    "": ""
+  },
+  {
+    "nombre": "PARQUE SAUSALITO",
+    "lat": -0.3019833,
+    "lng": -78.4840267,
+    "": ""
+  },
+  {
+    "nombre": "CASA COMUNAL SANTA ISABEL VISTA HERMOSA",
+    "lat": -0.33899,
+    "lng": -78.4860783,
+    "": ""
+  },
+  {
+    "nombre": "Casa Barrial Collaquí",
+    "lat": -0.176639,
+    "lng": -78.397944,
+    "": ""
+  },
+  {
+    "nombre": "Parque Centro de Salud Rumihurco",
+    "lat": -0.0948536,
+    "lng": -78.498731,
+    "": ""
+  },
+  {
+    "nombre": "Pasaje Puerto Baquerizo Moreno",
+    "lat": -0.137593368,
+    "lng": -78.426582,
+    "": ""
+  },
+  {
+    "nombre": "Los Ríos y Concepción",
+    "lat": -0.2258035,
+    "lng": -78.5055437,
+    "": ""
+  },
+  {
+    "nombre": "Capilla San José de pomasqui",
+    "lat": -0.05841219139,
+    "lng": -78.46545851,
+    "": ""
+  },
+  {
+    "nombre": "Calle Carapungo y José Miguel Guarderas",
+    "lat": -0.0973763,
+    "lng": -78.4378144,
+    "": ""
+  },
+  {
+    "nombre": "CALLE S2 Y CALLE E13 A 1.5 KMS DEL TREBOL EN LA AUTOPISTA GENERAL RUMIÑAHUI",
+    "lat": -0.2269399764,
+    "lng": -78.49231989,
+    "": ""
+  },
+  {
+    "nombre": "CALLE A Y PASAJE A PARQUE INFANTIL Y CASA BARRIAL JUNTO A LA IGLESIA",
+    "lat": -0.2406652781,
+    "lng": -78.48167635,
+    "": ""
+  },
+  {
+    "nombre": "Calle Goyan y Quijano, en la cancha de Basket, frente a la guarderia del Mies",
+    "lat": -0.2290148,
+    "lng": -78.5160347,
+    "": ""
+  },
+  {
+    "nombre": "Espacio deportivo",
+    "lat": -0.078921,
+    "lng": -78.472925,
+    "": ""
+  },
+  {
+    "nombre": "Parque esquina N calle 78 y N calle 79",
+    "lat": -0.0936803203,
+    "lng": -78.50044175,
+    "": ""
+  },
+  {
+    "nombre": "Iglesia de la Biloxi. Aldeas SOS",
+    "lat": -0.2520228,
+    "lng": -78.5482331,
+    "": ""
+  }
+]
